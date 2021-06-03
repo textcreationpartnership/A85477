@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all that are unregenerated, a call to repentance from dead works to newness of life by turning to the light in the  conscience, which will give the knowledge of God in the face of Jesus Christ / by Dorothea Gotherson.</title>
+            <author>Gotherson, Dorothea.</author>
+         </titleStmt>
+         <extent>Approx. 91KB of XML-encoded text transcribed from 82 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85477</idno><idno type="EEBO-CITATION">36282406</idno>
+  <idno type="VID">150073</idno>
+  <idno type="EEBO-PROQUEST">2240911599</idno>
+  
+            <idno type="STC">Wing G1352</idno>
+            <idno type="STC">ESTC R42592</idno>
+            <idno type="OCLC">36282406</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A85477)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150073)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2228:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all that are unregenerated, a call to repentance from dead works to newness of life by turning to the light in the  conscience, which will give the knowledge of God in the face of Jesus Christ / by Dorothea Gotherson.</title>
+                  <author>Gotherson, Dorothea.</author>
+               </titleStmt>
+               <extent>[24], 127, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>[Robert Wilson],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [2] at end.</note>
+                  <note>Colophon reads: London: Printed for Robert Wilson, at the Black Spread-Eagle and Windmil in Martins le grand. 1661.</note>
+                  <note>Imperfect: tightly bound, with loss of text.</note>
+                  <note>Reproduction of original in the Friends' Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term type="topical_term">Inner Light.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150073:1"/>
+            <p>
+               <hi>To all that are</hi> ƲNREGENERATED: <hi>A CALL TO Repentance from dead works, to Newness of life, By turning to the Light in the Conscience, which will give the knowledge of God in the face of Jesus Christ.</hi>
+            </p>
+            <p>
+               <hi>By <hi>Dorothea Gotherson.</hi>
+               </hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Isai.</hi> 58. 10.</bibl> If thou draw out thy soul to the hungry, and satisfie the afflicted soul, then shall thy light rise in obscurity, and thy darkness be as the noon-day.</q>
+            <q>
+               <bibl>
+                  <hi>Hos.</hi> 6. 4.</bibl> O <hi>Ephraim,</hi> what shall I do unto thee? O <hi>Judah,</hi> what shall I do unto thee? for your goodness (or kindness) is as a morning-cloud, &amp; as the early dew it goeth away</q>
+            <p>London, <hi>Printed in the year,</hi> 1661</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:150073:2"/>
+            <pb facs="tcp:150073:2"/>
+            <head>TO THE KING.</head>
+            <opener>
+               <salute>King <hi>Charles,</hi>
+               </salute>
+            </opener>
+            <p>THe Lord having of<g ref="char:EOLhyphen"/>ten put it into my heart by his revealed will, to write to lost <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> being truly sensible that she hath an immortal soul, in which I am deeply concerned, and for which I travel till it be born again in the particular and in the general: and therefore to thee as King, and as su<g ref="char:EOLhyphen"/>preme, whom the Lord I be<g ref="char:EOLhyphen"/>lieve
+<pb facs="tcp:150073:3"/> hath set upon <hi>Englands</hi> throne to that end, that thou mightst rule in righteous<g ref="char:EOLhyphen"/>ness; therefore let not the King think it below him to read that which many think above me to write, in respect to my sex: but in that will which would li<g ref="char:EOLhyphen"/>mit the holy One in any sex or person, I write not, nei<g ref="char:EOLhyphen"/>ther can the thoughts of that minde judge of the matter, God being not there in them thoughts, neither is his righteousness wrought by that will; and therefore from that in any one do not I expect a good thought or word of that I shall write: but to the faithfull witness
+<pb facs="tcp:150073:3"/> of the living God, which is sprung up out of the little seed, to <hi>bear witness</hi> whence it did <hi>proceed,</hi> to that I appeal, &amp; that I know in all wil not judge amiss of what I write. But this true experience hath taught me, that if any thing do think or speak evil of that it knows not, it will arise and judge it down a<g ref="char:EOLhyphen"/>gain. And O King <hi>Charles,</hi> thou maist do well to take heed to it as to a light shi<g ref="char:EOLhyphen"/>ning in a dark place, which sometimes is clouded over; and then the prince of dark<g ref="char:EOLhyphen"/>ness would judge of the matter: but let the Lord a<g ref="char:EOLhyphen"/>rise, and let the enemy of thy soul be confounded:
+<pb facs="tcp:150073:4"/> and if thou canst not think or speak well of what is writ to thee in dear love to thy immortal soul, why for the Lords sake onely let it alone, till the light shall shine forth which makes manifest deeds of darkness, and judges all things as they are: which is able to try all things, and hold fast that which is good, which is given to all to profit withall, and to no other end, it being sufficient to teach all to deny ungodli<g ref="char:EOLhyphen"/>ness and worldly lusts; which if obeyed, will justi<g ref="char:EOLhyphen"/>fie eternally; and on the contrary, if disobeyed, or turned into wantonness, it
+<pb facs="tcp:150073:4"/> will condemn for ever all those.</p>
+            <p>But that the seed of the kingdom which was once spoken of to be the least of all seeds, and grew to be the greatest of all trees, may in<g ref="char:EOLhyphen"/>crease, and grow, and flou<g ref="char:EOLhyphen"/>rish, is the desire of my soul. Oh the heighth, the depth! the world is not able to con<g ref="char:EOLhyphen"/>tain what might be writ concerning it; of which kingdome and dominion there is no end: but the be<g ref="char:EOLhyphen"/>ing faithful to a little, brings to be ruler over much. And that thou maist grow in it, I recommend it to thee, as the onely rule of a Christians life. For</p>
+            <lg>
+               <pb facs="tcp:150073:5"/>
+               <l>King <hi>Charls,</hi> thou art placed as King over this Land</l>
+               <l>By an invisible and outstret<g ref="char:EOLhyphen"/>ched hand,</l>
+               <l>That thou in righteousnesse mightst rule and reign,</l>
+               <l>To relieve the oppressed, and help ease the pain</l>
+               <l>Of the sick and poor, and the di<g ref="char:EOLhyphen"/>stressed,</l>
+               <l>That thy call might be, Come thou blessed,</l>
+               <l>Take thy reward which shall never cease,</l>
+               <l>The crown of life, even everla<g ref="char:EOLhyphen"/>sting peace.</l>
+               <l>This, this is Gods intent of bringing thee in hither,</l>
+               <l>That thou the evil do prevent, and fear him altogether:</l>
+               <pb facs="tcp:150073:5"/>
+               <l> And seek him where he is to be found, &amp; call on him whilst neer,</l>
+               <l>In heart that is up right &amp; sound, for none other he will hear.</l>
+               <l>The guiltless he will hold so still, but those that his Name take</l>
+               <l>In vain, he will not guiltless hold, even for his own Names sake.</l>
+               <l>Therefore O <hi>Charles,</hi> be thou a King</l>
+               <l>That to Gods Name may honour bring:</l>
+               <l>Bring all thy deeds unto the light,</l>
+               <l>Thy words and thoughts try in his sight;</l>
+               <l>That neither thought, or word, or deed,</l>
+               <l>May from darkness ever pro<g ref="char:EOLhyphen"/>ceed:</l>
+               <l>If so it do, let it be brought,</l>
+               <l>That it may soon be set at nought;</l>
+               <pb facs="tcp:150073:6"/>
+               <l> That so thou singly in his sight</l>
+               <l>Stand justified by the light.</l>
+               <l>A tender heart he loveth sure,</l>
+               <l>For his mercies do for ever en<g ref="char:EOLhyphen"/>dure;</l>
+               <l>And love his holy law doth ful<g ref="char:EOLhyphen"/>fill,</l>
+               <l>For love doth love no blood to spill:</l>
+               <l>Therefore in love do thou abide,</l>
+               <l>That thou in love maist ever hide;</l>
+               <l>For this is that will stand by thee,</l>
+               <l>When time and things away shall flee;</l>
+               <l>Even love and charity which is true,</l>
+               <l>Which gives to every one his due;</l>
+               <pb facs="tcp:150073:6"/>
+               <l> And hid is always from the carnal,</l>
+               <l>Because its being is in the e<g ref="char:EOLhyphen"/>ternal:</l>
+               <l>For Love is the beginning and the end of all,</l>
+               <l>Therefore before it do not thou fall,</l>
+               <l>But in it stand, and ever keep</l>
+               <l>To God and to his pasture-sheep;</l>
+               <l>That so good old age may be thy crown,</l>
+               <l>And length of days thy thy re<g ref="char:EOLhyphen"/>nown;</l>
+               <l>That so thy memory may be</l>
+               <l>Preserved in eternity.</l>
+               <l>For the hoary head and length of days,</l>
+               <l>Is that which ever gives him praise:</l>
+               <pb facs="tcp:150073:7"/>
+               <l> And this is my desire for thee,</l>
+               <l>Whose desire can never other<g ref="char:EOLhyphen"/>wise be</l>
+               <l>But good towards thee and o<g ref="char:EOLhyphen"/>thers all,</l>
+               <l>Though never so deeply in the fall.</l>
+            </lg>
+            <closer>
+               <signed>By one who suffers till the prisoner of hope comes forth. Dorothea Gotherson.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:150073:7"/>
+            <head>To the Reader.</head>
+            <p>
+               <hi>REader, whosoever thou art, this book is writ<g ref="char:EOLhyphen"/>ten to that end, that thou maist read it all, not in the light vain minde which is weighed in the just ba<g ref="char:EOLhyphen"/>lance, and found altogether wanting; but my desire is that the pure mind in thee might be stirred up, that so a measure of that spirit which is able to try all things, and hold fast that which is good, may read, judge, and receive the mat<g ref="char:EOLhyphen"/>ter. For this know, whoever thou art, that</hi> darkness hath
+<pb facs="tcp:150073:8"/> covered the earth, and thick darkness the people; <hi>and Sa<g ref="char:EOLhyphen"/>tan the prince of it hath been loosed for many years, according to the Scriptures, and he hath ruled in dark hearts: but the time is come, and coming, that he is and shall be more and more chained up: therefore kick not against the prick<g ref="char:EOLhyphen"/>ing of thy conscience; but that which makes manifest deeds of darkness, and re<g ref="char:EOLhyphen"/>proves all for evil, abide in; and so judgement will enter, which ought not to be turned backward, be<g ref="char:EOLhyphen"/>cause</hi> Sion <hi>is to be redeemed by it, and therefore is the administration of condem<g ref="char:EOLhyphen"/>nation</hi>
+               <pb facs="tcp:150073:8"/>
+               <hi>glorious in its time, and ought so to be esteemed by all who hunger after righteousness. Therefore</hi>
+            </p>
+            <div type="poem">
+               <lg>
+                  <l>Read with hunger, read with thirst,</l>
+                  <l>Read what's blessed, what's ac<g ref="char:EOLhyphen"/>curst;</l>
+                  <l>Read with meekness, read with love,</l>
+                  <l>Read with innocence as the dove.</l>
+                  <l>And that thou the better maist read,</l>
+                  <l>To the words take thou good heed:</l>
+                  <l>Try them, weigh them, let them be</l>
+                  <l>Accounted but verbal as they be.</l>
+                  <pb facs="tcp:150073:9"/>
+                  <l> Yet know this also, that they do</l>
+                  <l>Declare, make known the way unto</l>
+                  <l>The Word of life, which is the door,</l>
+                  <l>And Way, and light, which was before</l>
+                  <l>Words, lights and ways that are carnal,</l>
+                  <l>And shall be, when these and all external</l>
+                  <l>Things shall be accounted peri<g ref="char:EOLhyphen"/>shing;</l>
+                  <l>Which for to know, is the right using.</l>
+                  <l>Therefore read in love to that which is pure</l>
+                  <l>In the conscience, which shall for ever endure:</l>
+                  <l>Offend it not, for it is little,</l>
+                  <l>For if thou doest, then one tittle</l>
+                  <pb facs="tcp:150073:9"/>
+                  <l> Thou wilt come short of to ful<g ref="char:EOLhyphen"/>fill,</l>
+                  <l>Therefore in this respect a mill-Stone were better on the plac'd,</l>
+                  <l>And thou in the sea headlong cast:</l>
+                  <l>For this small thing thou mightst attain by,</l>
+                  <l>If the day of small things thou do not deny:</l>
+                  <l>But if thou dost, then the little gain</l>
+                  <l>By which all that do attain must attain,</l>
+                  <l>Will not flourish and increase;</l>
+                  <l>And then thy true and everla<g ref="char:EOLhyphen"/>sting peace</l>
+                  <l>Thou must not know, because thou flies</l>
+                  <l>The way unto it, and so then dies</l>
+                  <pb facs="tcp:150073:10"/>
+                  <l> In that which lives still to pur<g ref="char:EOLhyphen"/>sue,</l>
+                  <l>And gives to thee what is thy due.</l>
+                  <l>And so, Reader, if thou wouldst be refin'd,</l>
+                  <l>Let judgement change thy heart and minde,</l>
+                  <l>And do not longer it backward turn,</l>
+                  <l>But if it burn, why let it burn;</l>
+                  <l>It will not consume the thing that is pure,</l>
+                  <l>Because that doth for ever en<g ref="char:EOLhyphen"/>dure:</l>
+                  <l>And for the other take thou no thought,</l>
+                  <l>Nor let that life be longer sought,</l>
+                  <pb facs="tcp:150073:10"/>
+                  <l> Which in its end thy gain must be,</l>
+                  <l>That thou dost in it a loss see.</l>
+               </lg>
+               <closer>
+                  <signed>And if thou dost well, thou wilt fare well. D. G.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <lg>
+                  <pb facs="tcp:150073:11"/>
+                  <l>But wo is me for thee, Oh alas,</l>
+                  <l>
+                     <hi>England, England,</hi> time doth pass,</l>
+                  <l>And cannot be redeem'd by thee,</l>
+                  <l>Till that thou thy Redeemer see</l>
+                  <l>To live and reign in thee alone,</l>
+                  <l>The beauty of perfection.</l>
+                  <l>Oh didst thou know in this thy day</l>
+                  <l>The true and universal way,</l>
+                  <l>The light, the truth, the Fa<g ref="char:EOLhyphen"/>thers Lamb,</l>
+                  <l>Which is all one with the <hi>I am,</hi>
+                  </l>
+                  <l>A witness now for thee I bear,</l>
+                  <l>That thou wouldst then true Church up rear</l>
+                  <l>Upon a sure foundation,</l>
+                  <l>To those, and none but those a<g ref="char:EOLhyphen"/>lone</l>
+                  <pb facs="tcp:150073:11"/>
+                  <l> That are in the election,</l>
+                  <l>And chosen have the corner<g ref="char:EOLhyphen"/>stone,</l>
+                  <l>But unto thee a stumbling<g ref="char:EOLhyphen"/>block;</l>
+                  <l>The fault's in thee thou lovest not</l>
+                  <l>The light that should to thee all discover</l>
+                  <l>What thou shouldst chuse, and what pass over.</l>
+                  <l>But thou art blinde, and lov'st to be so,</l>
+                  <l>Therefore for thee there is a wo,</l>
+                  <l>A wo for thee in that woful state;</l>
+                  <l>Oh repent, repent, ere it be too late:</l>
+                  <l>For time doth flie, time is so swift,</l>
+                  <l>Therefore make this thy onely drift,</l>
+                  <pb facs="tcp:150073:12"/>
+                  <l> And onely aim, (though there<g ref="char:EOLhyphen"/>fore thou</l>
+                  <l>Didst darkness call light, and disallow</l>
+                  <l>The light as sufficient, and didst it call</l>
+                  <l>A natural, and count it despi<g ref="char:EOLhyphen"/>cal)</l>
+                  <l>Now to be brought to the begin<g ref="char:EOLhyphen"/>ning,</l>
+                  <l>Which is out of the way of sin<g ref="char:EOLhyphen"/>ning.</l>
+                  <l>Oh for thy sake I do lament,</l>
+                  <l>Therefore in time repent, re<g ref="char:EOLhyphen"/>pent:</l>
+                  <l>For thou hast yet a space, an hour,</l>
+                  <l>And to repent is in thy power:</l>
+                  <l>For the Just in thee doth yet lie slain,</l>
+                  <l>And all thou dost is yet in vain,</l>
+                  <pb facs="tcp:150073:12"/>
+                  <l> Thy prayers, tears, thy faith and all,</l>
+                  <l>Because they are all in the fall:</l>
+                  <l>And though thou dost God fa<g ref="char:EOLhyphen"/>ther call,</l>
+                  <l>Yet thou art in the bitter gall</l>
+                  <l>Of death and hells black cove<g ref="char:EOLhyphen"/>nant;</l>
+                  <l>Oh therefore, therefore do not vaunt,</l>
+                  <l>Nor yet thy self above God ex<g ref="char:EOLhyphen"/>alt,</l>
+                  <l>Nor longer between two opini<g ref="char:EOLhyphen"/>ons halt:</l>
+                  <l>If God be God, then worship him;</l>
+                  <l>But if not so, thy life is sin.</l>
+               </lg>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:150073:13"/>
+            <pb n="1" facs="tcp:150073:13"/>
+            <p>
+               <hi>HE that hath an ear let him hear:</hi> for if the char<g ref="char:EOLhyphen"/>mer charm never so wisely, the deaf adder cannot hear. But there is an ear which can hear what the Spirit saith, which speaketh ex<g ref="char:EOLhyphen"/>presly on this manner: <hi>There is a living fountain set open for sin and uncleannesse.</hi> O England, England, goe wash and be clean; be ba<g ref="char:EOLhyphen"/>ptized into his death <hi>which was lost and is found, which was dead and is alive for e<g ref="char:EOLhyphen"/>vermore.</hi>
+            </p>
+            <pb n="2" facs="tcp:150073:14"/>
+            <p> The Lord hath been a long-suffering God to thee, waiting still to be gracious to thee; O do thou wai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all the dayes of thy appoin<g ref="char:EOLhyphen"/>ted time till thy change i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wrought. What will it a<g ref="char:EOLhyphen"/>vail thee that <hi>light is sown fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the righteous, and joy and glad<g ref="char:EOLhyphen"/>ness for the upright in hear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> whilest thou art flourishin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> like a green bay-tree, sprea<g ref="char:EOLunhyphen"/>ding thy self in fruitless la<g ref="char:EOLunhyphen"/>bour! If thou wilt have th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> portion in such a life, mise<g ref="char:EOLunhyphen"/>rable is thy state for ever life eternal thou must neve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> know.</p>
+            <q>
+               <l>
+                  <hi>If thou wilt still persist thy life which i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> miserable to save,</hi>
+               </l>
+               <l>
+                  <hi>Thou shalt lose it, and not another hav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+            </q>
+            <pb n="3" facs="tcp:150073:14"/>
+            <p> O couldst thou believe this, then it were possible for thee to pass from death to life, to the overturning of the strong holds of sin, and the mountain on which thou standest, which shall shake. For the earnest de<g ref="char:EOLhyphen"/>sire of my soul is, that thou mightst come to sit downe with <hi>Abraham, Isaac,</hi> and <hi>Jacob</hi> in the kingdom which is everlasting: but parta<g ref="char:EOLhyphen"/>ker of two kingdomes thou mayst not be, neither canst thou serve two masters as thou oughtst to do: for <hi>no fellowship hath light with dark<g ref="char:EOLhyphen"/>ness, nor no concord hath Christ with Belial.</hi>
+            </p>
+            <p>Therefore all people of
+<pb n="4" facs="tcp:150073:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:150073:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:150073:16"/>
+               <pb facs="tcp:150073:16"/>
+               <pb n="4" facs="tcp:150073:17"/>
+               <hi>England</hi> turn to the Lord with all your hearts, and seek him where he is to be found: for darkness hath covered the earth, and thick darkness the people; and Satan the prince of darkness hath been loosed for many years, and ruled in the dark hearts of the children of dis<g ref="char:EOLhyphen"/>obedience. But the end, the appointed time is come, and coming; and people that belong to God shall draw near to him; and what is and hath been writ<g ref="char:EOLhyphen"/>ten with the point of a dia<g ref="char:EOLhyphen"/>mond, shall not fall to the ground; for there is no blot nor blemish in it: but all images, and forms of ima<g ref="char:EOLhyphen"/>ges,
+<pb n="5" facs="tcp:150073:17"/> though never so deeply graven on dark hearts, shall be ground to powder, and scattered as chaff before the wind. And for his Elects sake, the Lord will make a short work, and he will come suddenly; blessed will all they be who wait for his appearance: for verily he will come as a thief in the night, and woe be unto all those who have been lulled asleep with sowed pillowes in carnall security: O when they awake from sleep and sin, they will know their e<g ref="char:EOLhyphen"/>state to be miserable, blind and naked, and wish they had kept the Word, and hid it in their hearts, which is
+<pb n="6" facs="tcp:150073:18"/> to all as well as to Disci<g ref="char:EOLhyphen"/>ples, <hi>Watch:</hi> for Christ said <hi>What I say unto you, I say unt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all, Watch.</hi> This word is unt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all, but how few observe it but still I say unto all, <hi>Watch</hi> for you know not at wha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hour he will come to reig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in your hearts, whose righ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it is. And come now to b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nourished with meat in deed, and drink that whic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is drink indeed, that so yo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may discern the Lords bo<g ref="char:EOLunhyphen"/>dy and bloud, and know th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> veil of the Temple, re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from top to bottom, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> know your bodies temple<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the holy spirit: for, <hi>kno<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you not that Christ is in you, ex<g ref="char:EOLhyphen"/>cept you be reprobates?</hi> for al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="7" facs="tcp:150073:18"/> those who are not found in him, are workers of iniqui<g ref="char:EOLhyphen"/>ty, &amp; he doth not, nor never will own such in that state to be his; for <hi>he is the way, the truth, and the life; and no man can come to the Father but by him,</hi> whose life is the light of men.</p>
+            <p>Therefore in precious love to thy immortall soul, do I beseech all; and truly it be<g ref="char:EOLhyphen"/>hooves all to lay this thing to heart, to wit, the salva<g ref="char:EOLhyphen"/>tion of their immortall souls. For how many do I see who have the name of Christians, are of the same birth the Sadduces were of, who do deny that there is any resurrection either of
+<pb n="8" facs="tcp:150073:19"/> soul or spirit? though in words they will say, We do believe the resurrection, yet their works, their life and wayes deny it: therefore by it shall they be raised at the terrible day of the Lord to condemnation, and a <hi>de<g ref="char:EOLhyphen"/>part for ever</hi> shall be the por<g ref="char:EOLhyphen"/>tion of all such.</p>
+            <p>Oh <hi>England,</hi> couldst thou believe in the light, the truth, the life, the way, the everlasting rule, the Father, Son and holy Spirit, which are all one, then it were pos<g ref="char:EOLhyphen"/>sible for thee to please God, and to be led by his Spirit, to the overturning of all for those who have passed out of spiritual <hi>Sodom</hi> and
+<pb n="9" facs="tcp:150073:19"/>
+               <hi>Egypt,</hi> where our Lord, King, Priest and Saviour lieth yet crucified, dearly know that there must not be one stone left upon another of that building, whose beginning and end is a confusion, <hi>Ba<g ref="char:EOLhyphen"/>bel,</hi> a high Tower, but no strength or hiding place for the righteous; which shall be consumed by the breath of his nostrils. <hi>Babel,</hi> or babling, or confusion, whose builder and maker hath led all the builders into the ma<g ref="char:EOLhyphen"/>ny things, words and wor<g ref="char:EOLhyphen"/>ships: but all her little ones must be dashed a<g ref="char:EOLhyphen"/>gainst the stones, and one stone shall not be left upon another. The mouth of him
+<pb n="10" facs="tcp:150073:20"/> whose decrees are alwaye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> just, hath spoken it.</p>
+            <p>Therefore my desire, m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> earnest desire to the Lor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is, that the lost sheep of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> house, or place, or king<g ref="char:EOLunhyphen"/>dome of <hi>England,</hi> may com<g ref="char:EOLhyphen"/>out of her, and see and kno<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their lost state, that so the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may have a safe hidin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> place in Eternity, whic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was, is and shall be, whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Babel,</hi> or confusion in lan<g ref="char:EOLhyphen"/>guages and things, and <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>bylon</hi> and her merchants, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her traffick, little ones, &amp; a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her things, shall be utterl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> consumed. Therefore O lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sheep of the house of <hi>Eng<g ref="char:EOLunhyphen"/>land,</hi> as <hi>England</hi> stands no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Royal party so ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>led,
+<pb n="11" facs="tcp:150073:20"/> come out of her, that you partake not of her plagues: the Lord had ra<g ref="char:EOLhyphen"/>ther that you would now be taught by his Spirit, and therefore doth he now prove you by prosperity.</p>
+            <p>O consider how many o<g ref="char:EOLhyphen"/>verturnings there have been in few years, because peo-would not admit of him to reign whose right it is: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herefore be warned; for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e will go on to overturn, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill he reigns in and amongst <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he children of men. For <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Father of lights is chai<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing up the father or prince of darkness. O that you <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould read the <hi>Revelations</hi> of S. <hi>John</hi> with the Spirit and
+<pb n="12" facs="tcp:150073:21"/> understanding, that so you<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> might <hi>neither adde or dimi<g ref="char:EOLhyphen"/>nish,</hi> nor have that writing or other Scriptures fulfille<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> longer to your condemnati<g ref="char:EOLhyphen"/>on! for every jot and ever<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tittle shall be fulfilled. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>England, England,</hi> it is tim<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to look before thee with th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> single eye, that so tho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mayst not longer be led b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the blinde, and so fall int<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the lake or dirty ditche<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> where I behold you sittin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> under the shadow of death<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> where light is not sprun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up. Oh did you know wha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great delight is under hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shadow, who is the belove<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of my soul, I bear witness<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for you, you would no long<g ref="char:EOLunhyphen"/>er
+<pb n="13" facs="tcp:150073:21"/> sit down by the rivers of <hi>Babylon,</hi> with so great con<g ref="char:EOLhyphen"/>tent to your dark mindes.</p>
+            <p>And these things I write, that the pure minde in all might be stirred up, that so you might come to the knowledge of the truth, and not alwayes learning to none effect, other then to cast Gods holy Law which is in the heart, be<g ref="char:EOLhyphen"/>hinde, that so the grace of God which hath appeared to all, to this end, to teach all to deny ungodliness and worldly lusts, may be turn<g ref="char:EOLhyphen"/>ed into wantonness, refu<g ref="char:EOLhyphen"/>sing to be led or taught by it. O friends, the case of all such who cast Gods holy
+<pb n="14" facs="tcp:150073:22"/> Law behinde them, is very sad, who are in the degene<g ref="char:EOLhyphen"/>rated state, alive because of sin, but dead because of righteousness. He is a ly<g ref="char:EOLhyphen"/>er indeed, who perswade<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> such a one in his heart that he is born again of Wate<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and the Spirit: and wer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not this prince of darknes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and father of falshood to<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deeply placed in people hearts, they would see hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be a lyer. For friends truth cannot flatter, no daub with untemper'd mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tar, nor sow pillows, no cry peace to the wicked but truth speaks expresly o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this manner; <hi>He that is bor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of God cannot sin, but he th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="15" facs="tcp:150073:22"/>
+               <hi>commits sin is of his father the devil:</hi> and, <hi>if he yields his members subject to him, his servant he is;</hi> and, <hi>as the tree falleth, so it must lie,</hi> for in the grave there is no re<g ref="char:EOLhyphen"/>pentance. And those that cannot believe this, their dead faith gives them to be<g ref="char:EOLhyphen"/>lieve the power of Satan greater then the power of God; and according to their faith so it is.</p>
+            <p>O friends, friends, the administration of condem<g ref="char:EOLhyphen"/>nation which now I see was glorious in its time, is Pur<g ref="char:EOLhyphen"/>gatory (as they call it) with a witnesse; and I would have none imagine another: for it is the truest clean<g ref="char:EOLhyphen"/>sing
+<pb n="16" facs="tcp:150073:23"/> that can be, before heaven is attain'd to, where I believe you will confess with the lips, that no un<g ref="char:EOLhyphen"/>clean thing can enter: and this place of cleansing by that which condemnes for sin, is in the heart; and here is great purgatory in<g ref="char:EOLhyphen"/>deed, to that which is under the power or law of a car<g ref="char:EOLhyphen"/>nal commandment, now to be brought under, and le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the power of an endless life: for the place of clean<g ref="char:EOLhyphen"/>sing is in the heart, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> power of God is known t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> break in there by the powe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his own might, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brightness of his coming and here is the cross o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="17" facs="tcp:150073:23"/> Christ known, which is <hi>the power of God unto salvation;</hi> a cross indeed to the carnal mind that is in death, whose life is in it, and not living by faith in the Son of God. And in this life which is in death and darkness, man cannot see Gods face and live; but all that his life is in, which in the degenera<g ref="char:EOLhyphen"/>tion and first birth of cor<g ref="char:EOLhyphen"/>rupt nature is nothing but death and darkness; and whilest people are in this life, which is miserable in<g ref="char:EOLhyphen"/>deed, they are made by it children of wrath, being disobedient to that which should make them of <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> seed, heirs of promise.</p>
+            <pb n="18" facs="tcp:150073:24"/>
+            <p> And so friends, if any is weary and heavy laden be<g ref="char:EOLhyphen"/>cause of sin, there is a place of cleansing, of rest, and true satisfaction to the hun<g ref="char:EOLhyphen"/>gery soul, to the poor, to the naked, to the empty: but the full, and rich, and such as thought they had need of nothing, he hath and ever will send empty a<g ref="char:EOLhyphen"/>way. Therefore whosoeve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it be that can lay down hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> life, or take up his cross and sell all, and give to th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poor, and distressed, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> oppressed as a cart is pres<g ref="char:EOLhyphen"/>sed with sheaves, and fol<g ref="char:EOLhyphen"/>low the Lamb, shall fin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> treasure in heaven, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shall save his life. O bles<g ref="char:EOLunhyphen"/>sed
+<pb n="19" facs="tcp:150073:24"/> for evermore are all those who can believe, though they do not see; great, Oh great shall their crown and reward be: but the unbelieving shall still go into the lake and bot<g ref="char:EOLhyphen"/>tomless pit for ever and e<g ref="char:EOLhyphen"/>ver.</p>
+            <p>And the time of clean<g ref="char:EOLhyphen"/>sing is <hi>to day; if you will hear his voice, harden not your hearts as in the provocation in the wilderness:</hi> for such ne<g ref="char:EOLhyphen"/>ver came to <hi>Canaan,</hi> but their carcases fell in the wilderness. Therefore Oh friends, that you might per<g ref="char:EOLhyphen"/>ceive something by the types and figures, that so you might be brought to
+<pb n="20" facs="tcp:150073:25"/> Christ, the end of all types and shadows, is the desire of my heart, and the end of my words. For surely, friends, if you do come out of <hi>Egypt,</hi> you must pass tho<g ref="char:EOLhyphen"/>row the wilderness before you can come to the promi<g ref="char:EOLhyphen"/>sed land: and if you mur<g ref="char:EOLhyphen"/>mur here, you shall never enter, but come short, as they did in the figure. Therefore give heed to that which reproves for sin, that so in the way of God, which is good order, you may walk in, which is by stan<g ref="char:EOLhyphen"/>ding still, and seeing his sal<g ref="char:EOLhyphen"/>vation, which is a hidden mystery to the blinde, as all godliness is; but he that
+<pb n="21" facs="tcp:150073:25"/> can receive it, blessed shall he be for evermore: for all that cannot <hi>cease from doing evil,</hi> cannot <hi>learn to do well:</hi> Therefore to day if you will hear his voice, which may be terrible, yet let judge<g ref="char:EOLhyphen"/>ment enter, and turn it not backward; for <hi>Sion</hi> must be redeemed by judgement; &amp; there is a flaming sword turns every way, to cut off all from coming to the tree, but that which cannot pe<g ref="char:EOLhyphen"/>rish by the sword. And therefore dear hearts, kins<g ref="char:EOLhyphen"/>folks, countrey-men and ac<g ref="char:EOLhyphen"/>quaintance after the flesh, prize your time; <hi>to day</hi> is your time, or the present time more properly, for you
+<pb n="22" facs="tcp:150073:26"/> cannot promise to your selves more then that: though one day with the Lord is as a thousand years, and a thousand years as one day, yet your minute, or space, or hour, cannot com<g ref="char:EOLhyphen"/>prehend beyond its present time. Therefore this is the time of cleansing, when the Lord by his Spirit in peo<g ref="char:EOLhyphen"/>ples hearts reproves for sin in the conscience: this is the <hi>Ancient of days,</hi> which taught <hi>Enoch</hi> to walk with God, and is the true Tea<g ref="char:EOLhyphen"/>cher that cannot be remo<g ref="char:EOLhyphen"/>ved in a corner, but seeth in secret and there reproves.</p>
+            <p>Oh friends, that you could enter into the closet,
+<pb n="23" facs="tcp:150073:26"/> where the jewels are made up, and shut the doors a<g ref="char:EOLhyphen"/>bout you, and do all you do as in singleness of heart un<g ref="char:EOLhyphen"/>to the Lord, not for ap<g ref="char:EOLhyphen"/>plause or praise of men; and then your heavenly Fa<g ref="char:EOLhyphen"/>ther which seeth in secret will reward you openly: and there you may call him Father, being you worship in his Spirit, and keep in his fear: and this you will feel and know, when you are taught by the Spirit of God to pray as Christ taught his Disciples; when you can desire God to forgive you no further then you forgive others; and when you can pray for such as hate you,
+<pb n="24" facs="tcp:150073:27"/> and despightfully use you, even your enemies: Truly friends, he is no true Chri<g ref="char:EOLhyphen"/>stian that cannot do so, be he of what name soever: for if any is come to think he hates another because he is Gods enemy, and there<g ref="char:EOLhyphen"/>fore persecutes him, and thinks him not worthy to live, it may be, or to enjoy his portion which is in pe<g ref="char:EOLhyphen"/>rishing things; and this spirit steals words, and saith the wicked shall fill up their measure; and it is but <hi>three days and a half</hi> and they shall be cut off; and so thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> expectation is the destructi<g ref="char:EOLhyphen"/>on of people, and that dis<g ref="char:EOLhyphen"/>covers them to be carnall
+<pb n="25" facs="tcp:150073:27"/> minded, and out of Gods way, who <hi>delights not in the death of a sinner, but rather that he would live.</hi> For the Lord hath spared, and doth now spare, because people do not know their right hand from their left: and if people did know what they did, they would no longer crucifie the just. And at the times of ignorance God hath winked, and doth; but now he would have all men come to the knowledge of the truth. For sad is it for those people who are gi<g ref="char:EOLhyphen"/>ven up to a reprobate sense, to believe lyes with hard<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed hearts, and stiff necks: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or such I say, if the Lord
+<pb n="26" facs="tcp:150073:28"/> say, Let him that is filthy be so still, and let him that is unjust be unjust still, he is still the same, and doth not change; and if he doth not reveal himself to people, it is because they are in a lost condition, and love to be so: and sin is the cause of God<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> separating from them, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord had rather it wer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> otherwise; for mans de<g ref="char:EOLunhyphen"/>struction is of himself, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord hath no hand in i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> neither did he create ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to that end.</p>
+            <p>And hereby some w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> say we own free-will <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> free-grace.</p>
+            <p>To which I say, The g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of God, which is his gra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="27" facs="tcp:150073:28"/> or his will, is free, and pro<g ref="char:EOLhyphen"/>ceeds from that which is not in bondage to corrupti<g ref="char:EOLhyphen"/>on, nor never can be: and this free will it is that one<g ref="char:EOLhyphen"/>ly can work Gods righte<g ref="char:EOLhyphen"/>ousness, and not mans will, as he is under bondage of sin, never knowing the per<g ref="char:EOLhyphen"/>fect law of liberty, which is truth in the inward parts: and if this make free, there is freedome indeed. And Gods will, which is mans sanctification, is free, and he giveth liberally and upbrai<g ref="char:EOLhyphen"/>deth not: and every one hath a talent given to that end, to profit withall; but he that hides it, and thinks God an unequal God, and a
+<pb n="28" facs="tcp:150073:29"/> hard master, shall be called to an account, as well as he that improved it. And Gods Spirit doth now, as it did heretofore, move on the face of the waters; and time and things change and al<g ref="char:EOLhyphen"/>ter, but he is the beginning and end, and cannot be li<g ref="char:EOLhyphen"/>mited to any thing, or end in any thing, who is with<g ref="char:EOLhyphen"/>out end or beginning, and doth not change.</p>
+            <lg>
+               <l>For what in him doth end alone,</l>
+               <l>Is with the beginning made all one:</l>
+               <l>Which a parable is to the corrupt see<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Which never could nor never shall rea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>What is written in the hidden man <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the heart,</l>
+               <l>For that stands in the changable par<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <pb n="29" facs="tcp:150073:29"/>
+               <l> And all that comes from it is under the curse,</l>
+               <l>The beginning being bad, and the end much worse.</l>
+            </lg>
+            <p>Therefore, O <hi>England,</hi> come to the author &amp; elect foundation of true faith: where if thou do fall, it may bruise thee; but if it fall on thee, it will grinde thee to powder: <hi>for, to be carnally minded is death, but to be spiritually minded is life and peace.</hi> And think it not a hard saying, if it be said now, as once <hi>John</hi> said, <hi>The whole world lies in wickedness:</hi> but those that are redeemed out of it, the world hates, because they are not of it:
+<pb n="30" facs="tcp:150073:30"/> and the spiritual man know<g ref="char:EOLhyphen"/>eth all things as he ought to know, and is able to judge of the condition which he hath passed thorow: but the carnal minded man, who is under the shadow of death, whose light is not sprung up, he knows not as he ought to know, neither is it possible for him to judge the Saints condition; but the Saints did former<g ref="char:EOLhyphen"/>ly, and do now, and shal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in ages to come, judge th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> world.</p>
+            <p>And let none conclud<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that Self is here set up: fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by denying the earthly, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sensual and devilish par<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is this so come to pass. An<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="31" facs="tcp:150073:30"/> let him be as he is in the curse, who hath any thing to glory of or in, but the Lord; whose glorying and rejoycing is as vain as all o<g ref="char:EOLhyphen"/>ther, proceeding from the sensual part; and all that are here, are in the vain things and proceedings, be<g ref="char:EOLhyphen"/>ing not yet restored to what they fell from, but remain in that which fell, and so are in the fallen state: and this is the bloud-thirsty, which is like the horse-leech, which never hath enough: and here in this state is de<g ref="char:EOLhyphen"/>vouring of that which is just in man, because it is so. But now the Lord, who delights not to behold iniquity, calls
+<pb n="32" facs="tcp:150073:31"/> to sinners to cleanse their hands, and purifie their hearts, that so a clean heart and a right spirit they may draw neer to him by. Oh go wash and be clean. But</p>
+            <lg>
+               <l>O <hi>England, England,</hi> art thou so wise</l>
+               <l>In thy own blind deceitful eys?</l>
+               <l>And art thou of that cursed birth</l>
+               <l>That knows not God or Christ on earth?</l>
+               <l>O art thou out of that life that's hid,</l>
+               <l>And art thou yet in that that is forbid</l>
+               <l>To work any righteousness at all,</l>
+               <l>Because its life is all a fall,</l>
+               <l>A depart, a go, a leave behinde,</l>
+               <l>The blind still leading of the blind?</l>
+               <l>O <hi>England,</hi> what, canst thou discern</l>
+               <l>An outward thing, and canst not lear</l>
+               <l>All such to be but temporall,</l>
+               <l>And for thy soul no food at all?</l>
+               <pb n="33" facs="tcp:150073:31"/>
+               <l> I know, alas, thou hast no brest;</l>
+               <l>What could I do on thy b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hest?</l>
+               <l>Why sure there is a Christal stream,</l>
+               <l>A fountain pure, a river clean;</l>
+               <l>What hinders thee in it to go,</l>
+               <l>Being it makes as white as snow?</l>
+               <l>The cause is in thee yet, I trow,</l>
+               <l>And thou art in it still, I know,</l>
+               <l>The contrary a dirty puddle,</l>
+               <l>A sink, a plash that doth bemuddle</l>
+               <l>And sink thee down into the mire,</l>
+               <l>Which is thy place, till thou chuse a higher.</l>
+               <l>I know thy images so graven are</l>
+               <l>On the heart that carv'd them, that they do not spare</l>
+               <l>To tell thee that thou hast a Saviour,</l>
+               <l>But never yet knew the saving power</l>
+               <l>Aboe the clouds for to ascend,</l>
+               <l>But under elements him tear and rend:</l>
+               <l>And then at last to end the strife,</l>
+               <l>Thou crucify'st the Lord of life;</l>
+               <l>And then thou reign'st alone, I say,</l>
+               <l>And think'st thou art a Lady gay,</l>
+               <pb n="34" facs="tcp:150073:32"/>
+               <l> And that thou art the dear Lambs wise,</l>
+               <l>When crucify'd the Lord of life.</l>
+               <l>And now thou sayst the Lord doth live,</l>
+               <l>And by it dost his Spirit grieve:</l>
+               <l>And now thou runn'st about to seck</l>
+               <l>A rest for the sole of thy unstable feet,</l>
+               <l>Running now here and there, &amp; round</l>
+               <l>About on the rotten &amp; wrong ground.</l>
+               <l>For shouldst thou stand still in this state,</l>
+               <l>Thy mischief would come on thy ow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pate.</l>
+               <l>And so to keep alive thy head,</l>
+               <l>Thou mov'st about over the dead:</l>
+               <l>And nourish'd art by chaff and husk,</l>
+               <l>And livest onely in the dust.</l>
+               <l>But dregs and all thou must drink up</l>
+               <l>Of fury, and the bitter cup:</l>
+               <l>O <hi>England, England,</hi> the stone aw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rowl</l>
+               <l>It's time to seek thy immortal soul.</l>
+            </lg>
+            <p>There were some of ol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who had eyes and saw no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ears and heard not, fe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and walked not; and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="35" facs="tcp:150073:32"/> there are still, who are not come to discern the Lords body, which is meat indeed, and true nourishment for the immortal soul, where the single eye is, by which the whole body is full of light; and where the ear is that can hear what the Spirit saith, and feet that do walk in the way of life, being led by the Spirit of God in the way of holiness, where the wayfaring man though a fool cannot erre.</p>
+            <p>O <hi>come freely to the waters of life,</hi> come freely; <hi>come, buy without money and with<g ref="char:EOLhyphen"/>out price,</hi> for it is already paid. <hi>Ho every one that thirsteth,</hi> there is a fountain
+<pb n="36" facs="tcp:150073:33"/> set open for sin and un<g ref="char:EOLhyphen"/>cleanness, wash and be clean. O consider what hinders; the thirsty saith Come, and the Bride saith Come, and all that is with<g ref="char:EOLhyphen"/>in saith Come: therefore come, come; how can you neglect so great invitation of love? <hi>How oft would the Lord have gathered you under his wings, and ye would not!</hi> Oh did you know what great delight were under his shadow, you would no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> longer sit under the shadow of death. I know it is an e<g ref="char:EOLhyphen"/>vil heart of unbelief keep you from coming to th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> knowledge of the truth why believe, and you shal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="37" facs="tcp:150073:33"/> receive sight the scales shall fall off: believe and go wash, you shall be clean of your leprosie: a new crea<g ref="char:EOLhyphen"/>ture is the onely baptism. Oh that you could believe this! for <hi>without faith it is impossible to please God.</hi> Therefore believe in Christ Jesus the light that hath en<g ref="char:EOLhyphen"/>lightned every one that co<g ref="char:EOLhyphen"/>meth into the world; that so the veil may be taken off you, which is to say his flesh. For <hi>no man cometh to the Father but by his Son,</hi> whom he hath sent a light into the world to reprove the world of sin, of righte<g ref="char:EOLhyphen"/>ousness, and judgement: and therefore the world
+<pb n="38" facs="tcp:150073:34"/> hates him, and all those who are redeemed out of it by him, because he reproves them, who could not then, neither can such yet believe, that <hi>before Abraham was he was.</hi> Oh the veil, that is to say his flesh, you are under; and the corner-stone you stumble at: plain words formely written, and this day fulfilled in your eare<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of this generation, to you<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> condemnation; the corner<g ref="char:EOLhyphen"/>stone elect and precious you stumble at, because yo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will not do away the vei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which is over you, but e<g ref="char:EOLhyphen"/>steem it, because it cause<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you to stumble and rejec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the stone that is elect &amp; pre<g ref="char:EOLhyphen"/>cious
+<pb n="39" facs="tcp:150073:34"/> before the foundation of the world, plain words; for that was written by the Saints of old, in holy Writ, as their several conditions were, we own to be true; and in the same language we speak, and by the same spirit we know them fulfil<g ref="char:EOLhyphen"/>led, which is the key of <hi>David,</hi> that shuts and none opens, and opens and none shuts: and we do own that no private interpretation ought to be made of the Scripture, for the Spirit spoke expresly as it meant; and <hi>if our Gospel be hid, it is hid to them that are lost:</hi> and therefore all mens mean<g ref="char:EOLhyphen"/>ings, or addings or dimini<g ref="char:EOLhyphen"/>shings
+<pb n="40" facs="tcp:150073:35"/> are known to be out of the book of life, and plagues shall be added for their hours and years addi<g ref="char:EOLhyphen"/>tions of fruitless labours; one conceiving it is so, ano<g ref="char:EOLhyphen"/>ther not so, and a third, but I rather take it to be diffe<g ref="char:EOLhyphen"/>rent from both: and so poor people led about by words, even to windy doctrine, tos<g ref="char:EOLhyphen"/>sed to and fro like the rage<g ref="char:EOLhyphen"/>ing sea, whose waters cast up mire and dirt.</p>
+            <p>Oh the great and many heaps of confusion which I behold among you! what, is there but one thing neces<g ref="char:EOLhyphen"/>sary that concerns your poor souls? and why will you not look after it, but
+<pb n="41" facs="tcp:150073:35"/> still goe on catching at things as various as the winde?</p>
+            <lg>
+               <l>Was not Jesus of <hi>Nazareth,</hi> whom they Christ did call,</l>
+               <l>Appointed to end types and shadows all?</l>
+               <l>And was not he the son of man a sign,</l>
+               <l>Though not discerned by many in his time?</l>
+               <l>And did not he many signes and won<g ref="char:EOLhyphen"/>ders do?</l>
+               <l>And was not all he said a Parable to</l>
+               <l>The unclean nature that reigned then</l>
+               <l>In the children of wrath called men?</l>
+               <l>And did not he say no more signes should be,</l>
+               <l>But as <hi>Jonas</hi> was days &amp; nights three</l>
+               <l>In the body of the Whale, so should the Son of man be</l>
+               <l>In the body of the earth? and did they any more see?</l>
+               <l>And when he out of the earth arose,</l>
+               <l>Was it not a hidden mystery to all those</l>
+               <pb n="42" facs="tcp:150073:36"/>
+               <l> Who cryed out, Crucifie, crucifie him?</l>
+               <l>And of the same they had a sign;</l>
+               <l>But the resurrection they knew not,</l>
+               <l>Being their life was all a spot.</l>
+               <l>And to that generation was there any more signes,</l>
+               <l>Who could not discern the signes of the times?</l>
+               <l>And when he out of the earth arose,</l>
+               <l>Did he not then appear to those</l>
+               <l>Who tasted had of his consolation,</l>
+               <l>And afterwards knew him a sure foun<g ref="char:EOLhyphen"/>dation?</l>
+               <l>And did not (after all this) Saint <hi>Paul</hi> say,</l>
+               <l>If Christ is not risen, then you are they</l>
+               <l>That are yet in sin, and vain is your faith?</l>
+               <l>And in reference to himself further saith,</l>
+               <l>Our preaching is vain if it be not so:</l>
+               <l>Although none will deny, I know,</l>
+               <l>But that he was long before arisen</l>
+               <l>Outwardly out of the earths prison.</l>
+            </lg>
+            <pb n="43" facs="tcp:150073:36"/>
+            <p> O <hi>England, England,</hi> were watchmen which <hi>Esay</hi> spoke of all blind? and what have thine been in ages past? and what are they yet? &amp; were there such as sold the needy for a pair of shooes? and were there Merchants of <hi>Babylon,</hi> who made mer<g ref="char:EOLhyphen"/>chandise of soules? And what have they done since, and what do they do yet, who are led by the same spirit? And did the prince of darkness teach people to call evil good, and good e<g ref="char:EOLhyphen"/>vil, and darkness light, and light darkness? and did not some swear God lived too, and was it not false, being he lived not in them? And
+<pb n="44" facs="tcp:150073:37"/> were there such of old who fought for their gain from their quarter, or place, or parish, &amp; preached for hire, and made a divination of their own brain for money? and what have they done of late, and what do they do still? &amp; were there not such who daubed with untempe<g ref="char:EOLhyphen"/>red mortar, and cryed peace where the Lord spake none? and did such, or do such profit the people at all, who are led about with diversi<g ref="char:EOLhyphen"/>ties of lusts, setting up or e<g ref="char:EOLhyphen"/>steeming the creature above the Creator? some making one imagination or thing their God, by setting it up and bowing before it, and
+<pb n="45" facs="tcp:150073:37"/> some another; and rather then fail, sell the needy for a pair of shooes. O cursed <hi>Esau!</hi> what, sell thy immor<g ref="char:EOLhyphen"/>tall birthright for a perish<g ref="char:EOLhyphen"/>ing thing, which onely can satisfie that which must pe<g ref="char:EOLhyphen"/>rish? Surely thy image they all bear, who are satisfied, and cry peace, whilest peo<g ref="char:EOLhyphen"/>ple put in their mouths; but else prepare war against them: and all such do yet but bear the image of the earthly, and their treasure is there; therefore they are not fit to teach, but rather to learn with all subjection and stillness from think<g ref="char:EOLhyphen"/>ing, speaking, or acting any thing but what they
+<pb n="46" facs="tcp:150073:38"/> have learned in this manner <hi>at home,</hi> by that principle in man which reproves and makes manifest deeds of darkness, if taken heed unto as a light shining in a dark place: but if they will not, they will neither take the kingdome themselves, nor suffer such as are entring to enter. And sure I am, did not people love to have it so, the trade of selling the needy for a perishing thing would fail, and <hi>Babylons</hi> merchants would fall, that is to say, in their trade of selling star<g ref="char:EOLhyphen"/>ved souls, that so their own might live, and stand upon all that is below God in his everlasting day of life
+<pb n="47" facs="tcp:150073:38"/> which is the portion and in<g ref="char:EOLhyphen"/>heritance of the righteous: but for such who have had their portion already in that life which is miserable, not considering or taking compassion on the poor and distressed, they must not expect to have an inheri<g ref="char:EOLhyphen"/>tance when time shall be no more, in the rest of God.</p>
+            <lg>
+               <l>O synagogue of Satan, who do say</l>
+               <l>You are Christians, but are not; for you are they</l>
+               <l>Do personate Christ by your worship<g ref="char:EOLhyphen"/>ping in</l>
+               <l>The synagogue of Satan, which is a sin</l>
+               <l>As great, and doth the just as much oppress</l>
+               <l>As that which daily you do now con<g ref="char:EOLhyphen"/>fess.</l>
+               <l>And if ever you true Christians do be<g ref="char:EOLhyphen"/>come,</l>
+               <l>You will feel a sword, a sword for to cut down</l>
+               <pb n="48" facs="tcp:150073:39"/>
+               <l> Your righteousness as well as all your sinning,</l>
+               <l>Ere you can be restor'd in the begin<g ref="char:EOLhyphen"/>ning,</l>
+               <l>And know it all to be but dung and dross,</l>
+               <l>Till which you see you are but at a loss:</l>
+               <l>For godliness is onely gain to those</l>
+               <l>Whose hearts are changed as well as all their clothes</l>
+               <l>And coverings, which alter more can never,</l>
+               <l>Because they are made of praise, which endures for ever.</l>
+               <l>A reason good, which mans reason cannot finde,</l>
+               <l>Because true reason he doth cast behind,</l>
+               <l>Because it should ever be before him placed,</l>
+               <l>A reason bad, by which Gods image is defaced:</l>
+               <l>And man his right hand will not know from his left,</l>
+               <l>Because of reason sound he is bereft;</l>
+               <l>And to the rotten reason he doth cleav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Because it doth him of true sence be<g ref="char:EOLhyphen"/>reave.</l>
+               <pb n="49" facs="tcp:150073:39"/>
+               <l> The reason is still bad that man should chuse</l>
+               <l>That which is perishing, and the sound refuse.</l>
+               <l>A reason for't I know, which is very good,</l>
+               <l>And might be spoken, if well under<g ref="char:EOLhyphen"/>stood:</l>
+               <l>It is so because it is so, the reason's plain;</l>
+               <l>But whilest it is so, all that's done is vain,</l>
+               <l>Onely that such to the end of their race they may run,</l>
+               <l>And then begin anew by making all undone.</l>
+               <l>This is the course that all I know must take,</l>
+               <l>That he that died onely for their sake</l>
+               <l>May live again, and them justifie,</l>
+               <l>In that he died to live, and lived to die.</l>
+            </lg>
+            <pb n="50" facs="tcp:150073:40"/>
+            <p> And to all those who are called Right Reverend Fa<g ref="char:EOLhyphen"/>thers in God I write, for you have souls as well as o<g ref="char:EOLhyphen"/>thers, and it behoves you as well as others to take your condition into serious and sound consideration. Do you think your gray haires make you so? then many of low degree were Reve<g ref="char:EOLhyphen"/>rend as well as you: Bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Scripture saith, <hi>Men of low degree are vanity, and me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of high degree are a lye;</hi> an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>holy and reverend is his Nam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> onely. Or think you tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your Worship or your Sa<g ref="char:EOLhyphen"/>crifice, which the Lord ne<g ref="char:EOLhyphen"/>ver required of you by his revealed will, makes you
+<pb n="51" facs="tcp:150073:40"/> so? surely I can bear wit<g ref="char:EOLhyphen"/>ness for you, had you been babes, children, or young men in God, you would have been led by his Spirit before this: for <hi>as many as are led by the Spirit of God are the children of God,</hi> and no more. Deceive not your selves any longer: that which is offe<g ref="char:EOLhyphen"/>red up in stead of a sweet smell, will not be accepted; your <hi>inventing to your selves instruments of Musick like David,</hi> will not serve the turn now; it is <hi>truth in the inward parts</hi> the Lord is a seeking for, and a clean heart and hands, free from violence and oppression, that his soul hath pleasure
+<pb n="52" facs="tcp:150073:41"/> in. Surely if ever the Lord appear to you by his power and brightness, it will be terrible to you: you cannot see his face and live. O that you would own the admini<g ref="char:EOLhyphen"/>stration of condemnation to be glorious in its time! then should I have some hopes you might come to receive the kingdom of God as little children: but till you do own that admini<g ref="char:EOLhyphen"/>stration, you are not come to the first Priesthood, which must change.</p>
+            <p>Oh I desire for your sakes onely, that you would take what I write not with the excellency of mans wisdom well at my hand; if you
+<pb n="53" facs="tcp:150073:41"/> did, I might reason a little with you; if you are come to so high degrees, to be fa<g ref="char:EOLhyphen"/>thers or old men in Christ, how came you thither? did you first in the first birth, growth and life, see your selves to be in the degenera<g ref="char:EOLhyphen"/>ted estate, miserable, poor, blind and naked, onely ex<g ref="char:EOLhyphen"/>alted above all that is called God? or are you yet in that state onely, thinking you are rich and full, and regenerated, and have need of nothing, yet want <hi>the one thing necessary?</hi> Oh my friends, I fear ye have not yet sold all and given to the poor, nor yet laid down your lives, nor yet took up
+<pb n="54" facs="tcp:150073:42"/> your cross and followed Christ, nor yet bowed at the Name of Jesus: the time is come that things in hea<g ref="char:EOLhyphen"/>ven, and things in earth, and under the earth, shall stoop to his Name: things shall not be so exalted any longer, nor those who are under their power, but they and the things must stoop at the Name of Jesus, before he works in them and for them. Oh I do desire for your sakes onely (for I fear not him that can kill the body, and no more) that you would not turn again and rent me. Hath the Word of life, which is nigh, in the heart and
+<pb n="55" facs="tcp:150073:42"/> mouth, the sincere milk of the Word, which nourish<g ref="char:EOLhyphen"/>ed <hi>Abraham</hi> and <hi>David</hi> up to eternal life, been food for your immortal souls? or hath an external thing or words been your rule and guide? Have you yet eat of the bread which comes from above, the immortal bread, which is as true nou<g ref="char:EOLhyphen"/>rishment for the soul, as those things are for the bo<g ref="char:EOLhyphen"/>dy which must perish with the using? or are you yet feeding upon chaff and husk, in which grain was once, but being gone out, the husk cannot nourish the soul, but on the contrary, pine and starve it? Oh my
+<pb n="56" facs="tcp:150073:43"/> friends, you must reverence him who is onely holy and reverend, before he will re<g ref="char:EOLhyphen"/>verence you. Oh that you would stand bare before the hoary head, and give place to <hi>the Ancient of days</hi> to sit down, who hath long wai<g ref="char:EOLhyphen"/>ted to be gracious; whose locks are wet with the dew of the night; who is the <hi>Ancient of days,</hi> which was before <hi>Abraham,</hi> and is at this day, and is to come: my desire is that you would exalt his Name for ever, and bring down and out all, that it may be laid low before him, whether it be Hebrew, Greek or Latine, which is lawfull in its place; but if
+<pb n="57" facs="tcp:150073:43"/> you set it over his head which is the true light that hath lighted every one that cometh into the world, you must be numbered with those that cried out, <hi>Crucifie him, crucifie him.</hi> Deceive not your selves, God will not long be mocked: for the nations shall fear before him: all nations who have drunk of the cup of fornica<g ref="char:EOLhyphen"/>tion, must have that which followes, none can evade it; the Lords decree will stand: read in the <hi>Revelations</hi> of S. <hi>John,</hi> who writ that book in the Lords day; the Spirit spoke expresly as it meant, that <hi>all should partake of her plagues, who were drunk</hi>
+               <pb n="58" facs="tcp:150073:44"/>
+               <hi>with her cup:</hi> the Spirit said further, <hi>Whosoever shall adde or diminish, his name shall be blotted out of the book of life.</hi> Oh my friends, all mans addings, meanings and di<g ref="char:EOLhyphen"/>minishings, doth blot them out of the book of life; and when the book of consci<g ref="char:EOLhyphen"/>ence comes to be opened, they will see it to their con<g ref="char:EOLhyphen"/>demnation, who would not go learn in Christs school what this means, <hi>to know God is life eternall.</hi> Oh friends, your souls are as precious in the sight of the Lord as others; though your sins have been scarlet-coloured, he can make you white, and his followers;
+<pb n="59" facs="tcp:150073:44"/> but you must believe in Christ Jesus the light, or else your faith cannot be seen by your works, and so cannot be lively and true, without which it is impos<g ref="char:EOLhyphen"/>sible to please God, who is a spirit, and will be wor<g ref="char:EOLhyphen"/>shipped in spirit and in truth, and such he seeks to worship him: for burnt of<g ref="char:EOLhyphen"/>ferings and sacrifice he will not, but a body hath he pre<g ref="char:EOLhyphen"/>pared: for all that have an eye to discern, know the kingdom of heaven stands not in observations of Things, or Days, or Times, but in righteousness, joy, and peace in the holy Spi<g ref="char:EOLhyphen"/>rit, whose covering is above
+<pb n="60" facs="tcp:150073:45"/> and over all false covers, a safe hiding place, and a rock of defence; the righteous flee thither and are safe. Oh that you would be led by the Spirit of God, that so you might be children of God; for till then, if you say the Lord liveth, and swear it too, you do not speak truth to your neigh<g ref="char:EOLhyphen"/>bour, if he do not live in you: and his Spirit and the fruits thereof are plainly known. Oh that I could see you do good to all, and be filled with bowels of com<g ref="char:EOLhyphen"/>passion towards all! then you would not go about to destroy him for whom Christ died, nor lay heavy
+<pb n="61" facs="tcp:150073:45"/> burdens which you will not touch: for Gods way is e<g ref="char:EOLhyphen"/>qual, and he the same that ever he was; and if he is not revealed, it is to them that are lost: but great, and wise and prudent ones of the world, he is hid from, and is revealed to babes: and if out of the mouths of babes and sucklings the wisdom of the world shall be confounded, murmur not at it in your hearts: for the Lord will bring to pass his work, his strange work; his act, his strange act. And did my portion or well-be<g ref="char:EOLhyphen"/>ing stand in that which you can either give or take a<g ref="char:EOLhyphen"/>way, I might fear you: but
+<pb n="62" facs="tcp:150073:46"/> my treasure is not where moth or rust doth corrupt, or where thieves can break thorow and steal.</p>
+            <p>Oh you Nobles of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> who are as Noble as the earth can make you; your estate I know to be but low, and on perishing things you feed: the Lords table that should make you truly noble, you will not come unto: for I believe he hath knocked at the door of your hearts, and would have supped with you; but you would none of the Lords supper and his counsel, and therefore you cannot in that estate partake of his
+<pb n="63" facs="tcp:150073:46"/> table. Oh consider your e<g ref="char:EOLhyphen"/>state a little, all you who are set upon an unholy hill, your mountain must be overtur<g ref="char:EOLhyphen"/>ned, there is no remedy; all must be overturned, that righteousness may reigne: your foundation is not good, for truly it must be rooted up in all that belong to God. Oh that you could believe, to the overturning of the strong holds of sin &amp; Satan, that Right Honou<g ref="char:EOLhyphen"/>rable you might be: for as he was not a Jew who was one outwardly, and as the Circumcision which was then used was not ac<g ref="char:EOLhyphen"/>counted of by the children of the light, but that of the
+<pb n="64" facs="tcp:150073:47"/> heart: so now it is not the name or outward appea<g ref="char:EOLhyphen"/>rance of Nobility will stand justified. He that search<g ref="char:EOLhyphen"/>eth the heart and trieth the reins is come down to be<g ref="char:EOLhyphen"/>hold whether your works are wrought in him; if not, he cannot behold them. Oh what a degenerating from truth is here, called <hi>Right Honourable,</hi> and <hi>Truly Noble,</hi> and yet known to be out of that which onely makes so! Oh that the peace of God you might all know! Why consider, what will it pro<g ref="char:EOLhyphen"/>fit you if you could gain the whole world and lose your immortal souls? The Lords love is yet unto you, and he
+<pb n="65" facs="tcp:150073:47"/> would have you repent, and seek him where he is to be found: for he that set your sins in order before you, is neer you; and if you can stand in judgement, he then will justifie you; if not, he will still condemn all those who are not found in him, who is the light that hath lighted every one that co<g ref="char:EOLhyphen"/>meth into the world, and is onely sufficient to make ma<g ref="char:EOLhyphen"/>nifest deeds of darkness, and to reprove for them: there<g ref="char:EOLhyphen"/>fore hate not his reproof who is the true light: for those that do (according to what was formerly written by the Spirit of God) are brutish.</p>
+            <pb n="66" facs="tcp:150073:48"/>
+            <p> And all ye Judges of <hi>England,</hi> with the light that is given you to that end that it may give light to every one of you, and be esteemed and set up by you, and not put out, or at least put under a measure of unbelief; with that light search, I say: do your ways please the Lord? if the Lord justifie, far is it from me to condemn: but search, I say; for your souls are of great price to the Lord: Are you <hi>Englands Judges as at the first,</hi> and her <hi>Counsellors as at the begin<g ref="char:EOLhyphen"/>ning?</hi> or do you judge for reward? and if so, what is the reward?</p>
+            <p>You may judge of this
+<pb n="67" facs="tcp:150073:48"/> matter: are your ways the Lords wayes? are your thoughts his thoughts? here are you called to true judgement: or are you yet in the broad way, where the most are? and are you yet thinking, that if you live in sin, you have a Redeemer a<g ref="char:EOLhyphen"/>bove the clouds to save you in sin? and consider, are you in Gods way so far as to do to all men as you would be done unto? for that is but just and equal; and in words I know you will confess his ways are e<g ref="char:EOLhyphen"/>qual. But if you should say you love God whom you have not seen, and hate his creatures whom you have
+<pb n="68" facs="tcp:150073:49"/> seen, you do not say well: for how can it be? <hi>If you hate your brother whom you have seen, how can you love God whom you have never seen?</hi> And God is love, and in him is no hatred at all: for his eye is towards you now, while you are yet wallow<g ref="char:EOLhyphen"/>ing in your bloud, and trampling the bloud of the covenant under your feet. Oh when I consider your condition, you who have the name of Judges, and who pretend to true judge<g ref="char:EOLhyphen"/>ment, surely in the day of judgement great will your condemnation be: Oh that you would stand up for the Lord in your own conscien<g ref="char:EOLhyphen"/>ces!
+<pb n="69" facs="tcp:150073:49"/> then should we finde favour and grace in your sight; but in the mean time we do not look for it: for we dearly know, that a bad tree cannot bring forth good fruit: and we have been contented to be num<g ref="char:EOLhyphen"/>bred amongst transgressors, and have born the contra<g ref="char:EOLhyphen"/>diction of sinners; and one day you shall know the things concerning us have an end, and that it had been better for you not to have offended a little one, much more all the tender Lambs of the flock of Christ: when Christ shall come to some, and say, Come ye blessed of my Father; for when I was
+<pb n="70" facs="tcp:150073:50"/> in prison, ye visited me, in<g ref="char:EOLhyphen"/>asmuch as you did visit my members; where will such appear in that day when the Lord makes up his jew<g ref="char:EOLhyphen"/>els, who on the contrary have cast them into prison, and strengthened the hands of evil doers by a law? if the righteous scarcely be saved, where shall such ap<g ref="char:EOLhyphen"/>pear? And if such should say, We did visit, &amp;c. and are Christians, but are not, (but of the synagogue of Sa<g ref="char:EOLhyphen"/>tan they are, and him there they have worshipped) that saying would be as vain as all the rest, onely to fill up the measure, and a <hi>depart</hi> shall come, a separation of
+<pb n="71" facs="tcp:150073:50"/> light from darkness; and then weeping, and wailing, and gnashing of teeth shall be the portion for ever of such.</p>
+            <p>I know if the Lord should come to plead with all the learned men of the earth, and examine them: Where were you when I laid the foundations of the earth? all their wisdom from be<g ref="char:EOLhyphen"/>low cannot tell, but they must lay their hands on their mouth, all flesh must be silent before the Lord, who will be terrible in his judgements, to that end that man may know him<g ref="char:EOLhyphen"/>self and God, and all as he ought to know. Oh ye wise
+<pb n="72" facs="tcp:150073:51"/> men of <hi>Ethiopia,</hi> your life is but a span to the length of endless eternity; the grass of the field, which is green to day, and flourishing, and cut off to morrow, and cast into the oven, is an emblem of your lives: therefore spend not your time in vain; to morrow you may be cast into the oven, where the worm dies not: and which of you can dwell with ever<g ref="char:EOLhyphen"/>lasting burnings? I know you will be to seek in this matter: for you have cal<g ref="char:EOLhyphen"/>led God father indeed, but where is his fear, when the unfruitful works of dark<g ref="char:EOLhyphen"/>ness are brought forth in such abundance? yea, so
+<pb n="73" facs="tcp:150073:51"/> far from his fear in your selves, that you persecute o<g ref="char:EOLhyphen"/>thers because they are kept in the feare of the Lord, who have known it to be a vain thing to say, We live, move, and have our being in God, when they did move and live in their own wills, which could not work the righteousness of God; and now they are come to that state to stand still, and see the Lord go before them in all their thoughts, words and actions: the world hates them, because they are redeemed out of it, or at least a working out their salvation with fear and trembling.</p>
+            <pb n="74" facs="tcp:150073:52"/>
+            <p> And therefore, Oh ye Judges of <hi>England,</hi> in love to your immortal souls do I warn you to seek the Lord with all your hearts and all your mindes, and then he will be found: and do good to all, but especially to the houshold of faith: and let your moderation be known to all men: and cease to do evil, and learn to do well. And though some Scri<g ref="char:EOLhyphen"/>ptures may seem to shut out the most wise, and rich, and noble, from heaven (for in<g ref="char:EOLhyphen"/>deed it is harder for such then for others, for the poor soonest receive the Gospel) and though it is as impos<g ref="char:EOLhyphen"/>sible for a rich man to en<g ref="char:EOLhyphen"/>ter,
+<pb n="75" facs="tcp:150073:52"/> as a camel to go thorow a needles eye; yet with God all things are possible: therefore if you come to him, you shall have the light of life. Oh that I could perswade you, not almost, but altogether to be Chri<g ref="char:EOLhyphen"/>stians! for the time shall come, that all shall know the Lord, and then shall judges be as at the first, and counsellors as at the begin<g ref="char:EOLhyphen"/>ning; and then shall righ<g ref="char:EOLhyphen"/>teousnesse and truth run down the streets, and mercy and judgement shall kisse each other: for as your hour and power of darkness hath been known &amp; felt, and the shadow of death we have
+<pb n="74" facs="tcp:150073:53"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="75" facs="tcp:150073:53"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="76" facs="tcp:150073:54"/> sate under as well as you, and the unfruitful works of darkness some of us have brought forth; yet now as one from the dead, I come to warn you that you pass from death to life, that so you may not perish in your sins; for the Lord delights not in the death of a sinner, but rather that he would re<g ref="char:EOLhyphen"/>turn and live: therefore why will ye die? if ye will die, the Lord hath no hand in it, but your destruction is of the sensual part in your selves. And though there are Prophets, as there were of old, who do prophesie falsly, and the Priests bear rule by their means, and
+<pb n="77" facs="tcp:150073:54"/> some love to have it so, be<g ref="char:EOLhyphen"/>cause they can daub with untempered mortar, and cry peace where the Lord speaks no peace; oh this is all seen to be a divination of their own brain; and these pillows are but a rest for a while, which must be remo<g ref="char:EOLhyphen"/>ved.</p>
+            <p>And all ye Ladies of <hi>England,</hi> who walk with stretched-out necks, and wanton eyes, mincing as you go, and making a clat<g ref="char:EOLhyphen"/>tering with your feet, cur<g ref="char:EOLhyphen"/>ling your hair, and painting and spotting your faces, wearing gorgeous array, and the like; why consider,
+<pb n="78" facs="tcp:150073:55"/> when you come to give an account for all things done in the body, where will you appear? for none of this a<g ref="char:EOLhyphen"/>dornes the Gospel; God works none of these works in you or for you; and one day you shall know you have not lived and moved in him, for he is the author of none of this: you shall not have so much time for sinning as you have had heretofore: if you will not bow to the righteous law written in the heart, that which reproves in secret for these and all other sins, you shall fall &amp; perish in them; for in the grave there is no repentance. Let no blinde
+<pb n="79" facs="tcp:150073:55"/> guide or merchant of souls sell you any longer to work wickedness, by sowing pil<g ref="char:EOLhyphen"/>lows, and daubing with un<g ref="char:EOLhyphen"/>tempered mortar: I in plainness tell you, <hi>He that commits sin is of his father the devil, and his works they do.</hi> And vials of wrath will be poured forth on the seed of evil doers, and then it will be hard for you to kick a<g ref="char:EOLhyphen"/>gainst the pricking of your conscience: you had better never been born, then to die in your sins; you were not created to that end: the Lord had rather you were alive because of righteous<g ref="char:EOLhyphen"/>ness, then dead in sin: there<g ref="char:EOLhyphen"/>fore in time be warned;
+<pb n="80" facs="tcp:150073:56"/> for there's a wo to the <hi>crown of pride,</hi> as well as to the <hi>drunkards of Ephraim,</hi> who are drunk, but not with wine; who are giddy, and slum<g ref="char:EOLhyphen"/>ber, and grope for the wall, &amp; stumble at the stumbling stone and rock of offence. And think not this a hard saying which was formerly writ, That <hi>all nations should drink of the Whores cup:</hi> for if all nations had not been drunk with the cup of for<g ref="char:EOLhyphen"/>nication, all tables had not been filled with their vomit and filth; neither had they licked up the vomit of o<g ref="char:EOLhyphen"/>thers, had they not been drunk: for then would they have known the table of the
+<pb n="81" facs="tcp:150073:56"/> Lord from the table of De<g ref="char:EOLhyphen"/>vils; neither would they have eaten up my people as bread, saith the Lord: but all these things are come to pass, that what was formerly writ by the Spirit of the Lord might be fulfil<g ref="char:EOLhyphen"/>led.</p>
+            <p>Dear hearts, my country<g ref="char:EOLhyphen"/>men, kinsfolks and acquain<g ref="char:EOLhyphen"/>tance after the flesh, for whom I travel till you are born again of water and the Spirit, till which you can never see God, or know any thing as you ought to know; in precious love to your immortal souls (who was one with you in death,
+<pb n="82" facs="tcp:150073:57"/> till raised by the quickning power of God, to pass from under the shadow of death) am I mov'd to declare some<g ref="char:EOLhyphen"/>thing of my life past, and how I was made to depart from it, to an inheritance which shall never faile, which is now revealed in the Saints in light. When I came first from my mo<g ref="char:EOLhyphen"/>thers womb, I was as all are in that state, an heir of hea<g ref="char:EOLhyphen"/>ven; but my parents, who were of the <hi>Protestant Church</hi> so called, would have me brought up within that Pale or compass, not think<g ref="char:EOLhyphen"/>ing me a sufficient Christi<g ref="char:EOLhyphen"/>an as I was created in the image of God: therefore
+<pb n="83" facs="tcp:150073:57"/> they did intend to make me one by that way and form of the Protestant Church so called. Then a Minister of that Church did say he did baptize me in the name of the <hi>Father, Son</hi> &amp; <hi>holy Ghost:</hi> but if he had known the Name of the Father, and baptized me into his Spirit, he would not then have said I was regenerated and born again by his throwing wa<g ref="char:EOLhyphen"/>ter upon my face. And hereby let none conclude that I deny original sin, or sin in its original to be sin: but where sin hath no ori<g ref="char:EOLhyphen"/>ginal, I dare not say it hath; and before it had a being, I dare not say it had: for
+<pb n="84" facs="tcp:150073:58"/> the image of God is undefi<g ref="char:EOLhyphen"/>led where ever it be.</p>
+            <p>But some will say, We brought sin into the world with us, from our parents, and that is original sin: for is it not written in the Scri<g ref="char:EOLhyphen"/>ptures, <hi>In sin was I conceived and brought forth?</hi>
+            </p>
+            <p>That cannot properly be called original sin, the pa<g ref="char:EOLhyphen"/>rents conceiving and bring<g ref="char:EOLhyphen"/>ing forth the child in sin: if its parents have sinned, it may be they may die in them, and be their last sin, and therefore cannot be called original as to the parents. And the pa<g ref="char:EOLhyphen"/>rents sin cannot be imputed to the children, being the
+<pb n="85" facs="tcp:150073:58"/> soul that sins must die; then could not the kingdom of heaven be of such; and therefore as to the children it cannot be called original: neither when a child comes to die, and to be born of the feed of old <hi>Adam,</hi> it is not because the parents sinned, or not sinned, but because that the works of God might be manifested, and to that end all might come to live in the second <hi>Adam,</hi> as they have died in the first. Therefore let none think that they are regenerated &amp; born again by others vain babling, for they cannot do as they promise and under<g ref="char:EOLhyphen"/>take for them, for it is the
+<pb n="86" facs="tcp:150073:59"/> Lord onely can change the heart, after it is fully bent to do wickedly; but they neither do it, or believe it, and therefore this <hi>most so<g ref="char:EOLhyphen"/>lemn ordinance of God,</hi> as they call it, is sin; for according as it was written formerly, <hi>Whatsoever is not of faith is sin.</hi> For if I should ask any of the Right Reverend Fa<g ref="char:EOLhyphen"/>thers in God (as they are called) <hi>Do you believe that this child can forsake the de<g ref="char:EOLhyphen"/>vil and all his works?</hi> I know they cannot say we do be<g ref="char:EOLhyphen"/>lieve, because they are sold under sin for term of life, being in the covenant of Sa<g ref="char:EOLhyphen"/>tan, pleading for him and his kingdom, whose dead
+<pb n="87" facs="tcp:150073:59"/> faith gives them to believe the power of Satan greater then the power of God, and according to their faith the Scripture is fulfilled to their condemnation; the prince of darkness, the God of this world, lulling them on in carnal security, till the tree which was known by his fruit, falls, and so it must lie. And let no diviner for money lead you on till you fall in the ditch, but believe and be baptized in the Name of the Father, Son and holy Spirit; for it is not the outward washing will availe, but the new creature: for this I know of a truth to be as vain as all
+<pb n="88" facs="tcp:150073:60"/> the rest of mans ordinances, and oblations &amp; worships, being I was used after this manner, according to the Church of <hi>England:</hi> yet notwithstanding they said I was regenerated, I was not in twenty eight years after, in which space death passed on me; and in my child<g ref="char:EOLhyphen"/>hood I eat of the forbidden fruit, and by it transgressed Gods law, and would none of his counsel, because I did not know him; but a desire I had to finde him out a<g ref="char:EOLhyphen"/>mong professors of Religion in my childhood: I sought him, but could not finde him amongst them, neither had I any food for my soul whilst
+<pb n="89" facs="tcp:150073:60"/> I was in their way. Then one with the Royalists so called was I accounted above ten years, where I beheld much wickedness, though not in so high places, or with such fair colours and large co<g ref="char:EOLhyphen"/>vers as the professors had; and by this sort was I not like to be snared or decei<g ref="char:EOLhyphen"/>ved, because I saw plainly, that swearing, and drunken<g ref="char:EOLhyphen"/>ness, and whoredom, and idle jesting, and vain sports and shews, I did believe all such, and many more to be naught, and so was kept from that sort of sinning in great measure; and would say often I had my Religion to chuse, and until I could
+<pb n="90" facs="tcp:150073:61"/> finde a better then yet I had found, I would be of none. So in this miserable state I lived some years, being a<g ref="char:EOLhyphen"/>fraid of I knew not what continually, but more espe<g ref="char:EOLhyphen"/>cially of death then of any other thing. Yet the Lord did all my life-time af<g ref="char:EOLhyphen"/>flict me, and many great tri<g ref="char:EOLhyphen"/>als and crosses I had in the world, which since I have seen plainly was to draw me neerer to himself, and to make me know my self, that so I might deny my self, and exalt him alone, being much perplext and filled with troubles in the world; and having failed in all my expectations and pro<g ref="char:EOLhyphen"/>mises
+<pb n="91" facs="tcp:150073:61"/> which it made me of contentment in perishing things, I began to be wea<g ref="char:EOLhyphen"/>ry of my life, and still afraid to die, my conscience accu<g ref="char:EOLhyphen"/>sing me that I had not done as I ought to do, though I was all my life in great measure kept from acting what I knew to be sin, nei<g ref="char:EOLhyphen"/>ther did I know what I had omitted; so in this blinde state I durst not die. Then being miserable, and poor, and blinde and naked, and having no helper in the earth, the Lords time was then to direct me by the mouth of his Prophets to a light which was placed in darknesse, but darknesse
+<pb n="92" facs="tcp:150073:62"/> could not comprehend it: but before I ever had heard any of them, or saw any of them, I heard they were a people could lay down their lives one for another, that they were of one heart and one minde; which hearing, raised such a power in me which wrought by love, that I quickly found the report to be true; and then I was unsatisfied continually till I had heard some of them: and after I had heard, I ne<g ref="char:EOLhyphen"/>ver had one word to speak, or durst think one thought of evil of any of them; for they had directed me to that in my own particular, which did shew me all that
+<pb n="93" facs="tcp:150073:62"/> ever I had done. Then be<g ref="char:EOLhyphen"/>gun I to be led by the Spirit of God out of darkness into his marvellous light: but whither his hand hath led me since, and where I have known him most, is too hard to be uttered, or by you to be born.</p>
+            <p>Oh my friends, my friends, it is the living onely can praise the Lord, the dead cannot: <hi>A living dog is bet<g ref="char:EOLhyphen"/>ter then a dead lion:</hi> for crums that fall from the masters table may come to them. Oh all you that are without, crums you may have, if you believe they be<g ref="char:EOLhyphen"/>long to you: for then you may find more comfort in a
+<pb n="94" facs="tcp:150073:63"/> crum of true bread which falls from heaven, then in all the husks you have been musking in.</p>
+            <p>I have declared something of my condition to you, that you may know there is no peace to the wicked, saith my God. And all you that are travelling out of <hi>Sodom</hi> with your faces towards <hi>Si<g ref="char:EOLhyphen"/>on,</hi> look not back: <hi>remember Lots wife,</hi> who became a pil<g ref="char:EOLhyphen"/>lar of salt, a thing in its sea<g ref="char:EOLhyphen"/>son and measure the most savory, but out of its place and measure the most unsa<g ref="char:EOLhyphen"/>vory, and good for nothing when it hath lost its savor, but to be trodden under foot of men. Remember, I
+<pb n="95" facs="tcp:150073:63"/> say, look not back, but press forward to the mark of so high a calling; for the race that is set before us is pati<g ref="char:EOLhyphen"/>ence: therefore so run that you may obtain; not swift<g ref="char:EOLhyphen"/>ly, for fear of bloudshed and destruction; but let pati<g ref="char:EOLhyphen"/>ence have its perfect work.</p>
+            <p>Oh that you could read with understanding the <hi>Re<g ref="char:EOLhyphen"/>velations!</hi> But if it and o<g ref="char:EOLhyphen"/>ther writings writ by the holy Spirit of God be dark sayings to you, why do not longer blot your names out of the book of life, by ad<g ref="char:EOLhyphen"/>ding or diminishing. O the time is come, and coming, that the souls of them which
+<pb n="96" facs="tcp:150073:64"/> were sold for a perishing thing, cry for vengeance: And where will <hi>Englands</hi> watchmen appeare, who must be numbred with <hi>Baby<g ref="char:EOLhyphen"/>lons</hi> merchants, who among all the stuff they were tra<g ref="char:EOLhyphen"/>ders of and for, souls was one? Oh merchants, the ransomed of the Lord are out of your clutches; a valu<g ref="char:EOLhyphen"/>able consideration is paid: neither your treasure, nor the place of your treasure, can induce them back, who have begun in the Spirit, and in the same ended what is ended: neither your flat<g ref="char:EOLhyphen"/>teries or your frowns, your evil report or your good re<g ref="char:EOLhyphen"/>port, neither if you would
+<pb n="97" facs="tcp:150073:64"/> promise, and were able to perform, that you would give such the whole world, and all the pomp and riches that it contains, to fall down and worship the god of this world, they could not do it: it is already cast behinde all those who fit in heavenly places with Christ Jesus, and have passed into the city thorow the gates, &amp; have tasted of the tree that bears twelve maner of fruits, and do know the Law (and Law-giver) and wherefore it was added: such cannot now go into death the se<g ref="char:EOLhyphen"/>cond time, believing if they should, they should never more finde place of repen<g ref="char:EOLhyphen"/>tance,
+<pb n="98" facs="tcp:150073:65"/> having once tasted of the good word of God, if they should crucifie him a<g ref="char:EOLhyphen"/>gain afresh; this were im<g ref="char:EOLhyphen"/>possible to renew such: for it was appointed for <hi>all men</hi> but once to die, and after death to come to judge<g ref="char:EOLhyphen"/>ment: but those on whom the second death hath pow<g ref="char:EOLhyphen"/>er, God will never under<g ref="char:EOLhyphen"/>take for to renew them to repentance, and therefore it is altogether impossible. And therefore doe not blame those who had ra<g ref="char:EOLhyphen"/>ther enjoy the afflictions of <hi>Joseph,</hi> then the pleasures of sin for a season: and were not peoples hearts as hard as the <hi>nether mill-stone,</hi>
+               <pb n="99" facs="tcp:150073:65"/> they would ere now have considered the afflictions of <hi>Joseph</hi> or <hi>Lazarus:</hi> but this is the hour and the power of darkness of all who are in <hi>Cain, Esau, Pharaohs</hi> or <hi>Dives</hi> nature; such shall to their great cost one day know, that it shall not be sufficient to say, <hi>Lord, Lord,</hi> and not die daily unto sin, that so they might have li<g ref="char:EOLhyphen"/>ved unto righteousness; for he never knew such workers of iniquity: but and if hearts be hardned, and grow worse and worse, it is known to what end; and we are of more value then many sparrows, who are now sold two for a far<g ref="char:EOLhyphen"/>thing;
+<pb n="100" facs="tcp:150073:66"/> so unequal is mans dealings.</p>
+            <lg>
+               <l>But know, O <hi>England,</hi> this is the word</l>
+               <l>That truth to thee doth yet afford:</l>
+               <l>Because thou dost not yet well know</l>
+               <l>Thy right hand, the Lord doth pity shew</l>
+               <l>In endless love, and doth yet spare.</l>
+               <l>But know, before thou be aware,</l>
+               <l>He may in fury burn thee up,</l>
+               <l>If that thou slight salvations cup:</l>
+               <l>And yet the same which was, is he,</l>
+               <l>And doth not change in his decree:</l>
+               <l>If that thou change, he is the same,</l>
+               <l>Therefore on him do not lay blame.</l>
+               <l>But if thou wilt not changed be,</l>
+               <l>Still he stands firm in his decree,</l>
+               <l>Which sealed is by his own hand;</l>
+               <l>And nothing else can understand</l>
+               <l>Or open it, but that which sealed,</l>
+               <l>Because the condition is not revea<g ref="char:EOLhyphen"/>led</l>
+               <l>To the lest, or part which is impure,</l>
+               <l>To which his mercy cann't for ever en<g ref="char:EOLhyphen"/>dure:</l>
+               <pb n="101" facs="tcp:150073:66"/>
+               <l> And yet his mercy endures for ever,</l>
+               <l>And to such fail can never</l>
+               <l>To whom the condition is revealed,</l>
+               <l>Because that to it they have sealed.</l>
+            </lg>
+            <p>And all ye people of <hi>England, be subject to every ordinance of man for the Lords sake</hi> onely, and see him go before you in all your acti<g ref="char:EOLhyphen"/>ons: for Satan divided a<g ref="char:EOLhyphen"/>gainst himself cannot stand. And <hi>let every soul be subject to the higher powers; for the powers that be are of God:</hi> and rebellion is as the sin of witchcraft; and therefore rise not up to destroy your brethren, or your fellow-servants, because they are not contending it may be for the same thing or form
+<pb n="102" facs="tcp:150073:67"/> that you are contending for; yet none of you con<g ref="char:EOLhyphen"/>tending for the precious faith which was once deli<g ref="char:EOLhyphen"/>vered to the Saints, by which we know our salvati<g ref="char:EOLhyphen"/>on neerer then when we be<g ref="char:EOLhyphen"/>lieved. I say, destroy not him for whom Christ died; by that rule he might de<g ref="char:EOLhyphen"/>stroy thee: Oh cursed <hi>Cain,</hi> thy hand against every man, and every mans a<g ref="char:EOLhyphen"/>gainst thee! What and if thy brother be led by a fal<g ref="char:EOLhyphen"/>lible spirit? so art thou; and nothing shall overcome but a spirit of meekness: a fiery zeal for you know not what, shall avail you no<g ref="char:EOLhyphen"/>thing in the day of the
+<pb n="103" facs="tcp:150073:67"/> Lord, but love shall endure for ever. Surely you may look that the Lord cut you off in your sins, if you bite and devour one another. You talk of degrees of per<g ref="char:EOLhyphen"/>fection; but this is a de<g ref="char:EOLhyphen"/>gree of imperfection, I am sure. Did not <hi>Englands</hi> Mi<g ref="char:EOLhyphen"/>nisters stir you up to kill and devour one another at the beginning of the wars? but that it is impossible for the blinde to see, you might have known them by their fruits, for all their sheeps clothing: and what are you still plotting and agitating mischief? your thoughts are very vain, in thinking you can do any thing for
+<pb n="104" facs="tcp:150073:68"/> God by strife and hatred, envy and malice, and smi<g ref="char:EOLhyphen"/>ting with the fist of wicked<g ref="char:EOLhyphen"/>ness: this must not prevail: the fruits of the Spirit of God are clean contrary, from which your sins have made a separation. If bri<g ref="char:EOLhyphen"/>ars and thorns go together in battel, consider what will the end be. And truly the Lord will now be honoured on them that would not ho<g ref="char:EOLhyphen"/>nour him; for fighting, kil<g ref="char:EOLhyphen"/>ling, and all manner of evil, doth dishonour him. And though you may promise to your selves <hi>Things</hi> &amp; <hi>Forms,</hi> and <hi>Likenesses,</hi> you shall all fail of your expectation, your weapons and your
+<pb n="105" facs="tcp:150073:68"/> ends being carnal, and you still carnally minded, and therefore such unfruitfull works of darknesse are wrought. Oh your darkness is felt, and what it will bring forth; the seed of God being yet in bondage, and captivity is not yet led captive, neither can you say in truth your Redeemer lives, who seeks to save mens lives, and not destroy them.</p>
+            <p>Oh <hi>England,</hi> when I con<g ref="char:EOLhyphen"/>sider how thou hast groped for the wall at noon-days, and didst lean to thine own understanding, and chosest to walk in the crooked and blinde paths, and rann'st
+<pb n="106" facs="tcp:150073:69"/> when the Lord never sent thee, neither living or mo<g ref="char:EOLhyphen"/>ving in him, though thou often saidst thou didst, in thy vain repetitions, saying thou wast of the vine, but thy fruit was thistles, and therefore fit for the fire: and thou saidst likewise thou wast the wheat; but the Lord came to try, and found thee chaff, and there<g ref="char:EOLhyphen"/>fore art thou scattered; and in all this the Lord is glori<g ref="char:EOLhyphen"/>fied; for it is the living that praise him, which thou hast been often told: hadst thou had an ear to have heard, thou wouldst not have been contented with the name onely of protesting against
+<pb n="107" facs="tcp:150073:69"/>
+               <hi>Antichrist,</hi> &amp; denied the <hi>Lord</hi> that paid a price for thee, trampling the blood of the covenant under feet, count<g ref="char:EOLhyphen"/>ing it an unholy thing; and in the mean time how much swines bloud didst thou of<g ref="char:EOLhyphen"/>fer up? and instead of a sweet smell, what a bad sa<g ref="char:EOLhyphen"/>vour was there! Oh how hath the sanctuary of the Lord been polluted by all this!</p>
+            <p>And how hast thou pro<g ref="char:EOLhyphen"/>phaned the Sabbath, and the day of the Lord, and called it <hi>Sunday,</hi> meaning as many houres as thou thoughtst to refrain from sinning! thou mightst as well set up an Hour-glass,
+<pb n="108" facs="tcp:150073:70"/> and say in thy vain heart, This is the hour and time of darkness. But thou hadst no bonds from sinning; thy guide was very unequal in all his way; his hour or day was to last for term of life, and so by him wast thou taught to plead for sin, for that term: the first <hi>Adam,</hi> or a stop to righteousness, thou wast well known to, and lovedst; but the second <hi>Adam</hi> thou delightedst not to be acquainted with, which would have stopped thee from observations of days, and times, and new Moons and Sabbaths, and led thee into the power of an endless life, which was
+<pb n="109" facs="tcp:150073:70"/> hid from thee, because thou wast lost, and yet thoughtst thou wast rich, and hadst need of nothing; but thy thoughts were as vain as thy actions, and the <hi>one thing necessay</hi> thou didst not heed; and therefore is night come over the Seers of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and they have no visi<g ref="char:EOLhyphen"/>on, because they hated to be reformed, and would none of the counsel of the Lord: for I have heard some of them say (that they might be judged out of their own mouths, in their prayers or vain repetitions) <hi>Lord, we do not receive, because we have not true faith:</hi> a true saying as they could speak; and
+<pb n="110" facs="tcp:150073:71"/> that was the cause why their prayers, or any other worship, did not please God: for had they had true faith as a grain of mustard-seed, it would have brought to pass that which was im<g ref="char:EOLhyphen"/>possible for them to believe without it. And in another vain repetition I have heard some of <hi>Englands</hi> Ministers say, <hi>Lord, we do not receive, because we ask amiss;</hi> and so have made a trade of con<g ref="char:EOLhyphen"/>fessing, and cry out they can never forsake: therefore hath their peace been hid from their eyes; for they did not turn people from darkness to light, from the power of Satan to the pow<g ref="char:EOLhyphen"/>er
+<pb n="111" facs="tcp:150073:71"/> of God; but they were always learning of them, and yet the learners nor teachers never attain<g ref="char:EOLhyphen"/>ed to the knowledge of God, because they cryed down and put out the light within, which ought to have been set up, to give light to every house, and not put under a measure of unbelief or darkness.</p>
+            <p>O foolish sons and daugh<g ref="char:EOLhyphen"/>ters of <hi>England,</hi> how have you been bewitched by those of the black art! what, did you think to be called Christians was suffi<g ref="char:EOLhyphen"/>cient, and the prince of darkness bear rule in you? Oh how hath he ruled in
+<pb n="112" facs="tcp:150073:72"/> your dark hearts, and how have your foolish hearts been darkned! &amp; how long did you sit down under the shadow of death, and what crabbed fruit did you bring forth! Oh how like were you to the hypocrites of old which so many woes Christ pronounced against! did you not love the uppermost rooms at feasts, and greet<g ref="char:EOLhyphen"/>ings in the markets, and to be called of men Master? and did you not devour wi<g ref="char:EOLhyphen"/>dows houses, because for conscience sake they could not put into your mouths? and for all this, that oppres<g ref="char:EOLhyphen"/>sion and violence were in your hands, you thought
+<pb n="113" facs="tcp:150073:72"/> you should be heard by your much babling, and long prayers, saying, <hi>Lord make us of one heart and one minde;</hi> but your God could not hear you, for he never yet answered you: but the living God saith you did not seek him where he was to be found; though you did draw neer to him with your lips, yet your hearts were far off him: all your cryings, <hi>Lord, Lord,</hi> did little avail, being you did not deny your selves and do his will. And how like were you to those of old, whom Christ saith to, <hi>Depart from me, you workers of iniquity; for when I was</hi>
+               <pb n="114" facs="tcp:150073:73"/>
+               <hi>sick or in prison you did not vi<g ref="char:EOLhyphen"/>sit me, inasmuch as ye did it not to my members?</hi> but you on the contrary cast into prison, and persecuted seve<g ref="char:EOLhyphen"/>ral ways his members: therefore woe is unto you, great sayers and little do<g ref="char:EOLhyphen"/>ers; a hand of justice hath overtaken you, as it did o<g ref="char:EOLhyphen"/>thers, which will overturn till he reign whose right it is, in and with the sons of men.</p>
+            <lg>
+               <l>But like to the spiders web I see</l>
+               <l>All swept away by purity;</l>
+               <l>The spider, and the spiders web,</l>
+               <l>Which tangled was in her own cobweb:</l>
+               <l>And though she made it to that end,</l>
+               <l>Her to save and to defend,</l>
+               <pb n="115" facs="tcp:150073:73"/>
+               <l> Yet of her end she did come short,</l>
+               <l>And I do know a reason for't,</l>
+               <l>Because by her others might see</l>
+               <l>What it is to live in vanity.</l>
+            </lg>
+            <p>Oh <hi>England,</hi> were thy people and others all crea<g ref="char:EOLhyphen"/>ted in the image of God? Come, let us reason a little, &amp; where is that image? for I do not see it in you. I know what the best of you can say to it, that is, It is defaced by sin: it is so indeed, and you fulfill the Scriptures to your condemnation. But oh alas, I love thy soul so well, I would have thee come to the fulfilling of the Scriptures to thy justificati<g ref="char:EOLhyphen"/>on. What, dost thou mar his visage, and wilt thou
+<pb n="116" facs="tcp:150073:74"/> mar it always? O persecu<g ref="char:EOLhyphen"/>ting <hi>Cain,</hi> wilt thou never leave marring and wound<g ref="char:EOLhyphen"/>ing, till thou hast utterly slain?</p>
+            <lg>
+               <l>For the just in thee lieth crucified, I see,</l>
+               <l>And great, Oh great will thy calamity be:</l>
+               <l>And one step in the way of life thou wilt not go,</l>
+               <l>Because the cross of Christ thou wilt not know;</l>
+               <l>For if thou didst, thou wouldst not trample on</l>
+               <l>The bloud of Christ, which is salvation</l>
+               <l>To all that on it by a lively faith</l>
+               <l>Lay hold on it: to such it always saith</l>
+               <l>And speaketh better things then any bloud</l>
+               <l>Of man or bulls under the old Friest<g ref="char:EOLhyphen"/>hood.</l>
+            </lg>
+            <p>And go to the fat swine,
+<pb n="117" facs="tcp:150073:74"/> you cruel ones, whose bow<g ref="char:EOLhyphen"/>els are shut up toward your fellow-creatures or mem<g ref="char:EOLhyphen"/>bers: Were not the image of God quite defaced in you, you would not suffer the children to starve and pine away, who ought not to suffer for the sins of their parents, whilst people of that generation live in all fulness. I say, go learn of the better fed then taught swine, yet better taught then many that have the name of Christians: for if they hear by the cry of the little ones, that they suffer, they will with open mouth declare their dislike of it, &amp; with the hazard of their
+<pb n="118" facs="tcp:150073:75"/> lives endeavour to rescue them from cruelty.</p>
+            <p>And ye drunkards, go to the ox and horse, whom you cannot perswade to drink more then will satisfie thirst; whom you in your cruelty daily oppress, be<g ref="char:EOLhyphen"/>cause they stand as witnes<g ref="char:EOLhyphen"/>ses against you. For how do the dumb open, and as<g ref="char:EOLhyphen"/>ses, and harmless sheep speak to you by their looks, groanes and bleatings! which you are not sensible of, your hearts being as hard as the nether mill<g ref="char:EOLhyphen"/>stone: for if they were not, I bear witness for you, you would be sensible of the groan of the creature, and
+<pb n="119" facs="tcp:150073:75"/> would be moved in pity and compassion, and not exer<g ref="char:EOLhyphen"/>cise so much cruelty on them; and not onely on them, but on your fellow-members, for whom Christ Jesus the light of the world hath laid down his life for, your own brethren in the first <hi>Adam,</hi> whom he comes to call to repentance, and whom he pities, and desires not their destruction, but rather that they would re<g ref="char:EOLhyphen"/>turn and live with him and in him. If you do extend so much cruelty to the dumb creature, whom ye are like in some respects, but in the better part they exceed you; for the ox knoweth his ow<g ref="char:EOLhyphen"/>ner,
+<pb n="120" facs="tcp:150073:76"/> his cruel owner, and the ass his masters crib; but you do not know me, saith the holy One; for I dwell in an humble and contrite heart, and you are exalted above all that is called God, in the cruelty, and oppressi<g ref="char:EOLhyphen"/>on, and abuse of Gods crea<g ref="char:EOLhyphen"/>tures, which were not crea<g ref="char:EOLhyphen"/>ted for that end. And to let you see the inequality of your way, if you do shew a<g ref="char:EOLhyphen"/>ny respect or esteem of any creature, it is above the Creator, still in the change<g ref="char:EOLhyphen"/>able, in that love or affecti<g ref="char:EOLhyphen"/>on which may seem good if it be pleased: but when it is tried what it can endure, it changes. Oh friends, this
+<pb n="121" facs="tcp:150073:76"/> that I speak of, never went thorow the fire once, and therefore is not like to be tryed seven times.</p>
+            <p>And this is writ to thee, O <hi>England,</hi> that seeing thou mightest see, and pursue the things that belong to thy everlasting Peace,
+<pb n="122" facs="tcp:150073:77"/> and sure satisfaction to thy languishing immortal Soul, be<g ref="char:EOLhyphen"/>fore the Day co<g ref="char:EOLhyphen"/>meth, that it be quite hid from thy Eyes: For that which was <hi>Davids</hi> comfort, will short<g ref="char:EOLhyphen"/>ly overtake thee; and as thou repents, returns and for<g ref="char:EOLhyphen"/>sakes,
+<pb n="123" facs="tcp:150073:77"/> accordingly it shall prove a Bles<g ref="char:EOLhyphen"/>sing; but if other<g ref="char:EOLhyphen"/>wise, it shall the Wages give of that which cannot do this and live.</p>
+            <div type="poem">
+               <lg>
+                  <pb n="124" facs="tcp:150073:78"/>
+                  <l>THerefore repent, re<g ref="char:EOLhyphen"/>pent, repent, I sing,</l>
+                  <l>From the Peasant low, unto the King:</l>
+                  <l>For a long-suffering God is he,</l>
+                  <l>Who calls to thee for Pu<g ref="char:EOLhyphen"/>rity;</l>
+                  <l>And would not have thee run the Race</l>
+                  <pb n="125" facs="tcp:150073:78"/>
+                  <l> That is obtained by run<g ref="char:EOLhyphen"/>ning apace:</l>
+                  <l>But now begin for to stand still,</l>
+                  <l>That thou his holy Law may fulfil,</l>
+                  <l>In the light and saving health which he</l>
+                  <l>Hath placed in all to ju<g ref="char:EOLhyphen"/>stifie,</l>
+                  <pb n="126" facs="tcp:150073:79"/>
+                  <l> If followed, and by it led;</l>
+                  <l>But if rejected and dis<g ref="char:EOLhyphen"/>allowed,</l>
+                  <l>It will pursue thee, and condemn,</l>
+                  <l>Because thou art not found in him.</l>
+                  <l>Therefore before the Iron Rod</l>
+                  <pb n="127" facs="tcp:150073:79"/>
+                  <l> Too heavy fall, return to God,</l>
+                  <l>That when it smites, it comfort may</l>
+                  <l>Thee in the clear and Chrystal day:</l>
+                  <l>So doth my Soul and my life say,</l>
+                  <l>Which without end doth for thee pray.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:150073:80"/>
+            <pb facs="tcp:150073:80"/>
+            <head>ERRATA.</head>
+            <p>PAge 47. line 15. put <hi>persecute</hi> for <hi>personate.</hi> Page 49. line 14. leave out <hi>they.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <pb facs="tcp:150073:81"/>
+            <pb facs="tcp:150073:81"/>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Robert Wilson,</hi> at the Black Spread-Eagle and Windmil in <hi>Martins le grand.</hi> 1661.</p>
+            <pb facs="tcp:150073:82"/>
+            <pb facs="tcp:150073:82"/>
+         </div>
+      </back>
+   </text>
+</TEI>
